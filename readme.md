@@ -233,6 +233,85 @@ Skills for marketing professionals, content creators, and growth teams.
 
 Utilities and tools to enhance your Claude workflow.
 
+### Desktop Applications & GUI Tools
+
+- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) ![Stars](https://img.shields.io/github/stars/CherryHQ/cherry-studio?style=flat-square)
+  - AI productivity studio with smart chat and autonomous agents
+  - 300+ built-in assistants for various tasks
+  - Unified access to frontier LLMs
+  - Cross-platform desktop application
+
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) ![Stars](https://img.shields.io/github/stars/farion1231/cc-switch?style=flat-square)
+  - All-in-one desktop assistant for Claude Code, Codex, OpenCode
+  - Skills management and provider configuration
+  - Cross-platform with WSL support
+  - Built with Rust and Tauri for performance
+
+- [winfunc/opcode](https://github.com/winfunc/opcode) ![Stars](https://img.shields.io/github/stars/winfunc/opcode?style=flat-square)
+  - Powerful GUI app and toolkit for Claude Code
+  - Create custom agents and manage interactive sessions
+  - Run secure background agents
+  - Built with Rust and Tauri
+
+- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) ![Stars](https://img.shields.io/github/stars/iOfficeAI/AionUi?style=flat-square)
+  - Free, local, open-source 24/7 cowork app
+  - OpenClaw alternative for multiple AI coding assistants
+  - Supports Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code
+  - Web UI for easy access
+
+### Agent Harnesses & Meta-Tools
+
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) ![Stars](https://img.shields.io/github/stars/code-yeongyu/oh-my-openagent?style=flat-square)
+  - Best-in-class agent harness (previously oh-my-opencode)
+  - TUI for orchestration and management
+  - Multi-provider support (OpenAI, Gemini, Claude)
+  - TypeScript-based with excellent developer experience
+
+- [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) ![Stars](https://img.shields.io/github/stars/gsd-build/get-shit-done?style=flat-square)
+  - Lightweight meta-prompting and context engineering system
+  - Spec-driven development approach
+  - Created by TÂCHES team
+  - Focus on productivity and getting things done
+
+### Memory & Context Management
+
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) ![Stars](https://img.shields.io/github/stars/thedotmack/claude-mem?style=flat-square)
+  - Automatic session capture and AI compression
+  - Long-term memory with RAG integration
+  - Uses Claude's agent-sdk for intelligent context injection
+  - SQLite and ChromaDB for embeddings storage
+  - Seamless integration with future Claude sessions
+
+### MCP Servers & Integrations
+
+- [oraios/serena](https://github.com/oraios/serena) ![Stars](https://img.shields.io/github/stars/oraios/serena?style=flat-square)
+  - Powerful coding agent toolkit with semantic capabilities
+  - MCP server for retrieval and editing
+  - Language server protocol integration
+  - Advanced semantic code understanding
+
+- [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) ![Stars](https://img.shields.io/github/stars/qwibitai/nanoclaw?style=flat-square)
+  - Lightweight OpenClaw alternative for containers
+  - Connects to WhatsApp, Telegram, Slack, Discord, Gmail
+  - Built on Anthropic's Agents SDK
+  - Memory and scheduled jobs support
+
+### API & Integration Tools
+
+- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) ![Stars](https://img.shields.io/github/stars/router-for-me/CLIProxyAPI?style=flat-square)
+  - Wrap multiple AI CLIs as OpenAI-compatible API
+  - Support for Gemini CLI, Claude Code, ChatGPT Codex, Qwen Code
+  - Access free models through standardized API interface
+  - Built with Go for performance
+
+### CLI Configuration Tools
+
+- [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) ![Stars](https://img.shields.io/github/stars/davila7/claude-code-templates?style=flat-square)
+  - CLI tool for configuring and monitoring Claude Code
+  - Template management system
+  - Configuration automation
+  - Python-based for easy customization
+
 ### Monitoring & Observability
 
 - [disler/claude-code-hooks-multi-agent-observability](https://github.com/disler/claude-code-hooks-multi-agent-observability) ![Stars](https://img.shields.io/github/stars/disler/claude-code-hooks-multi-agent-observability?style=flat-square)
