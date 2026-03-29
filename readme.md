@@ -35,18 +35,6 @@ Claude skills are structured instructions and configurations that guide Claude t
 - **Templates**: Reusable patterns for common operations
 - **Tool integrations**: Connections to external services and APIs
 
-### Installation
-
-Most skills can be installed by placing them in your Claude configuration directory:
-
-```bash
-# Clone a skill repository
-git clone https://github.com/username/skill-name ~/.claude/skills/skill-name
-
-# Or use a package manager
-npx antigravity-awesome-skills
-```
-
 ---
 
 ## Official Resources
@@ -76,6 +64,12 @@ These repositories offer extensive collections of skills across multiple domains
   - Engineering, marketing, product management
   - Compliance and C-level advisory capabilities
   - Compatible with 11 different tools
+
+- [garrytan/gstack](https://github.com/garrytan/gstack) ![Stars](https://img.shields.io/github/stars/garrytan/gstack?style=flat-square)
+  - Garry Tan's exact Claude Code setup
+  - 6 opinionated tools for startup leadership
+  - Includes CEO, Engineering Manager, Release Manager, QA agents
+  - Production-tested by Y Combinator president
 
 - [wshobson/agents](https://github.com/wshobson/agents) ![Stars](https://img.shields.io/github/stars/wshobson/agents?style=flat-square)
   - 112 specialized agents across 72 focused plugins
@@ -411,15 +405,6 @@ We welcome contributions! To add a skill or tool to this list:
 
 **Quality over quantity** - we prioritize well-documented, production-ready skills over experimental projects.
 
----
-
-## Security Notice
-
-Skills can execute code and access your system. Always:
-- Review source code before installation
-- Use skills from trusted sources
-- Test in isolated environments first
-- Keep skills updated
 
 ---
 
