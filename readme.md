@@ -365,6 +365,13 @@ Utilities and tools to enhance your Claude workflow.
   - Built on Anthropic's Agents SDK
   - Memory and scheduled jobs support
 
+- [RichardAtCT/claude-code-telegram](https://github.com/RichardAtCT/claude-code-telegram) ![Stars](https://img.shields.io/github/stars/RichardAtCT/claude-code-telegram?style=flat-square)
+  - Telegram bot for remote Claude Code access
+  - Chat naturally about projects from anywhere
+  - Automatic session persistence per project
+  - Proactive notifications from webhooks and CI/CD
+  - Built-in authentication and audit logging
+
 ### API & Integration Tools
 
 - [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) ![Stars](https://img.shields.io/github/stars/router-for-me/CLIProxyAPI?style=flat-square)
