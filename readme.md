@@ -2,7 +2,7 @@
 
 > A curated list of 100+ GitHub repos for Claude Code skills, plugins, subagents, orchestrators, and productivity tools.
 
-⭐ = Stars (approximate) | 🔥 >1000 ⭐ | 🌟 >500 ⭐ | ✨ >100 ⭐
+Star counts are live via [shields.io](https://shields.io) badges.
 
 ---
 
@@ -28,78 +28,78 @@
 
 | # | Repo | Description |
 |---|------|-------------|
-| 1 | 🔥 [anthropics/claude-code](https://github.com/anthropics/claude-code) | The official Claude Code agentic coding tool — lives in your terminal, understands your codebase |
-| 2 | 🔥 [anthropics/skills](https://github.com/anthropics/skills) | Official public repository for Agent Skills — docx, pdf, pptx, xlsx, art, design, MCP builder, and more |
-| 3 | 🔥 [anthropics/claude-code-sdk-python](https://github.com/anthropics/claude-code-sdk-python) | Official Python SDK for Claude Code |
-| 4 | 🔥 [anthropics/claude-code-security-review](https://github.com/anthropics/claude-code-security-review) | AI-powered security review GitHub Action using Claude |
+| 1 | [anthropics/claude-code](https://github.com/anthropics/claude-code) ![GitHub Stars](https://img.shields.io/github/stars/anthropics/claude-code?style=flat-square) | The official Claude Code agentic coding tool — lives in your terminal, understands your codebase |
+| 2 | [anthropics/skills](https://github.com/anthropics/skills) ![GitHub Stars](https://img.shields.io/github/stars/anthropics/skills?style=flat-square) | Official public repository for Agent Skills — docx, pdf, pptx, xlsx, art, design, MCP builder, and more |
+| 3 | [anthropics/claude-code-sdk-python](https://github.com/anthropics/claude-code-sdk-python) ![GitHub Stars](https://img.shields.io/github/stars/anthropics/claude-code-sdk-python?style=flat-square) | Official Python SDK for Claude Code |
+| 4 | [anthropics/claude-code-security-review](https://github.com/anthropics/claude-code-security-review) ![GitHub Stars](https://img.shields.io/github/stars/anthropics/claude-code-security-review?style=flat-square) | AI-powered security review GitHub Action using Claude |
 
 ## Awesome Lists & Catalogs
 
 | # | Repo | Description |
 |---|------|-------------|
-| 5 | 🔥 [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | The gold-standard curated list of skills, hooks, slash-commands, agent orchestrators, applications, and plugins |
-| 6 | [jqueryscript/awesome-claude-code](https://github.com/jqueryscript/awesome-claude-code) | Curated tools, IDE integrations, frameworks, and resources with star-count badges |
-| 7 | [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) | Skills resources and tools for customizing AI workflows — great FAQ and getting-started section |
-| 8 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | Curated skills organized by category with clear descriptions |
-| 9 | [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills) | Categorized skills for security, document handling, development, and data analysis |
-| 10 | [karanb192/awesome-claude-skills](https://github.com/karanb192/awesome-claude-skills) | 50+ verified skills with clear use cases and star ratings |
-| 11 | [webfuse-com/awesome-claude](https://github.com/webfuse-com/awesome-claude) | Comprehensive list covering everything Claude — models, SDKs, tools, cloud providers |
-| 12 | 🔥 [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) | 1000+ agent skills from official dev teams (Sentry, Trail of Bits, Expo, DuckDB, Figma, Google) and community |
-| 13 | 🔥 [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 1,326+ installable agentic skills with CLI installer, bundles, and workflows |
+| 5 | [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) ![GitHub Stars](https://img.shields.io/github/stars/hesreallyhim/awesome-claude-code?style=flat-square) | The gold-standard curated list of skills, hooks, slash-commands, agent orchestrators, applications, and plugins |
+| 6 | [jqueryscript/awesome-claude-code](https://github.com/jqueryscript/awesome-claude-code) ![GitHub Stars](https://img.shields.io/github/stars/jqueryscript/awesome-claude-code?style=flat-square) | Curated tools, IDE integrations, frameworks, and resources with star-count badges |
+| 7 | [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) ![GitHub Stars](https://img.shields.io/github/stars/travisvn/awesome-claude-skills?style=flat-square) | Skills resources and tools for customizing AI workflows — great FAQ and getting-started section |
+| 8 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) ![GitHub Stars](https://img.shields.io/github/stars/ComposioHQ/awesome-claude-skills?style=flat-square) | Curated skills organized by category with clear descriptions |
+| 9 | [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills) ![GitHub Stars](https://img.shields.io/github/stars/BehiSecc/awesome-claude-skills?style=flat-square) | Categorized skills for security, document handling, development, and data analysis |
+| 10 | [karanb192/awesome-claude-skills](https://github.com/karanb192/awesome-claude-skills) ![GitHub Stars](https://img.shields.io/github/stars/karanb192/awesome-claude-skills?style=flat-square) | 50+ verified skills with clear use cases and star ratings |
+| 11 | [webfuse-com/awesome-claude](https://github.com/webfuse-com/awesome-claude) ![GitHub Stars](https://img.shields.io/github/stars/webfuse-com/awesome-claude?style=flat-square) | Comprehensive list covering everything Claude — models, SDKs, tools, cloud providers |
+| 12 | [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) ![GitHub Stars](https://img.shields.io/github/stars/VoltAgent/awesome-agent-skills?style=flat-square) | 1000+ agent skills from official dev teams (Sentry, Trail of Bits, Expo, DuckDB, Figma, Google) and community |
+| 13 | [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) ![GitHub Stars](https://img.shields.io/github/stars/sickn33/antigravity-awesome-skills?style=flat-square) | 1,326+ installable agentic skills with CLI installer, bundles, and workflows |
 
 ## Skill Collections & Bundles
 
 | # | Repo | Description |
 |---|------|-------------|
-| 14 | 🌟 [obra/superpowers](https://github.com/obra/superpowers) | 20+ battle-tested skills — TDD, debugging, collaboration patterns, git workflows |
-| 15 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | Agent harness performance optimization — skills, instincts, memory, security, research-first dev |
-| 16 | 🔥 [garrytan/gstack](https://github.com/garrytan/gstack) | Garry Tan's exact Claude Code setup — 6 opinionated tools (CEO, Eng Manager, Release Manager, QA) |
-| 17 | [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | 192+ skills & agent plugins — engineering, marketing, product, compliance, C-level advisory. Works with 11 tools |
-| 18 | [rohitg00/awesome-claude-code-toolkit](https://github.com/rohitg00/awesome-claude-code-toolkit) | Most comprehensive toolkit — 135 agents, 35 skills, 42 commands, 150+ plugins, 19 hooks, 7 templates |
-| 19 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | Open-source Claude Code extension framework |
-| 20 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Agency-style agent collection for Claude Code |
-| 21 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | Professional UI/UX design skill for Claude |
+| 14 | [obra/superpowers](https://github.com/obra/superpowers) ![GitHub Stars](https://img.shields.io/github/stars/obra/superpowers?style=flat-square) | 20+ battle-tested skills — TDD, debugging, collaboration patterns, git workflows |
+| 15 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) ![GitHub Stars](https://img.shields.io/github/stars/affaan-m/everything-claude-code?style=flat-square) | Agent harness performance optimization — skills, instincts, memory, security, research-first dev |
+| 16 | [garrytan/gstack](https://github.com/garrytan/gstack) ![GitHub Stars](https://img.shields.io/github/stars/garrytan/gstack?style=flat-square) | Garry Tan's exact Claude Code setup — 6 opinionated tools (CEO, Eng Manager, Release Manager, QA) |
+| 17 | [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) ![GitHub Stars](https://img.shields.io/github/stars/alirezarezvani/claude-skills?style=flat-square) | 192+ skills & agent plugins — engineering, marketing, product, compliance, C-level advisory. Works with 11 tools |
+| 18 | [rohitg00/awesome-claude-code-toolkit](https://github.com/rohitg00/awesome-claude-code-toolkit) ![GitHub Stars](https://img.shields.io/github/stars/rohitg00/awesome-claude-code-toolkit?style=flat-square) | Most comprehensive toolkit — 135 agents, 35 skills, 42 commands, 150+ plugins, 19 hooks, 7 templates |
+| 19 | [openclaw/openclaw](https://github.com/openclaw/openclaw) ![GitHub Stars](https://img.shields.io/github/stars/openclaw/openclaw?style=flat-square) | Open-source Claude Code extension framework |
+| 20 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) ![GitHub Stars](https://img.shields.io/github/stars/msitarzewski/agency-agents?style=flat-square) | Agency-style agent collection for Claude Code |
+| 21 | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) ![GitHub Stars](https://img.shields.io/github/stars/nextlevelbuilder/ui-ux-pro-max-skill?style=flat-square) | Professional UI/UX design skill for Claude |
 | 22 | [K-Dense Claude Scientific Skills](https://github.com/topics/claude-skills) | Ready-to-use skills for research, science, engineering, analysis, finance, and writing |
-| 23 | [mattpocock/skills](https://github.com/mattpocock/skills) | 17 dev workflow skills — PRD writing, TDD, codebase architecture, git guardrails, issue triage |
+| 23 | [mattpocock/skills](https://github.com/mattpocock/skills) ![GitHub Stars](https://img.shields.io/github/stars/mattpocock/skills?style=flat-square) | 17 dev workflow skills — PRD writing, TDD, codebase architecture, git guardrails, issue triage |
 | 24 | [OpenPaw](https://github.com/topics/claude-skills) | 38-skill bundle — git, Telegram, Discord, Obsidian, daily briefing. Run via `npx pawmode` |
-| 25 | [wshobson/agents](https://github.com/wshobson/agents) | 112 specialized agents, 16 orchestrators, 146 skills, 79 tools in 72 focused plugins |
-| 26 | [henkisdabro/wookstar-claude-plugins](https://github.com/henkisdabro/wookstar-claude-plugins) | Opinionated plugin pack — productivity, Google Analytics, GTM, Shopify, MCP integrations |
+| 25 | [wshobson/agents](https://github.com/wshobson/agents) ![GitHub Stars](https://img.shields.io/github/stars/wshobson/agents?style=flat-square) | 112 specialized agents, 16 orchestrators, 146 skills, 79 tools in 72 focused plugins |
+| 26 | [henkisdabro/wookstar-claude-plugins](https://github.com/henkisdabro/wookstar-claude-plugins) ![GitHub Stars](https://img.shields.io/github/stars/henkisdabro/wookstar-claude-plugins?style=flat-square) | Opinionated plugin pack — productivity, Google Analytics, GTM, Shopify, MCP integrations |
 
 ## Subagents & Agent Definitions
 
 | # | Repo | Description |
 |---|------|-------------|
-| 27 | 🔥 [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) | 100+ specialized subagents covering full-stack development, research, DevOps, and more |
-| 28 | 🌟 [claude-code-unified-agents](https://github.com/topics/subagents) | 722⭐ — Comprehensive collection combining best features from multiple community repos |
-| 29 | 🌟 [claude-code-subagents](https://github.com/topics/subagents) | 622⭐ — 100+ production-ready development subagents |
-| 30 | 🌟 [claude-sub-agent](https://github.com/topics/subagents) | 532⭐ — AI-driven development workflow system built on subagents |
-| 31 | [vijaythecoder/awesome-claude-agents](https://github.com/vijaythecoder/awesome-claude-agents) | 24 specialized agents — Tech Lead Orchestrator, Code Archaeologist, Performance Optimizer |
-| 32 | [lst97/claude-code-sub-agents](https://github.com/lst97/claude-code-sub-agents) | Domain-expert subagents with multi-agent orchestration and auto-delegation |
+| 27 | [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) ![GitHub Stars](https://img.shields.io/github/stars/VoltAgent/awesome-claude-code-subagents?style=flat-square) | 100+ specialized subagents covering full-stack development, research, DevOps, and more |
+| 28 | [claude-code-unified-agents](https://github.com/topics/subagents) | 722⭐ — Comprehensive collection combining best features from multiple community repos |
+| 29 | [claude-code-subagents](https://github.com/topics/subagents) | 622⭐ — 100+ production-ready development subagents |
+| 30 | [claude-sub-agent](https://github.com/topics/subagents) | 532⭐ — AI-driven development workflow system built on subagents |
+| 31 | [vijaythecoder/awesome-claude-agents](https://github.com/vijaythecoder/awesome-claude-agents) ![GitHub Stars](https://img.shields.io/github/stars/vijaythecoder/awesome-claude-agents?style=flat-square) | 24 specialized agents — Tech Lead Orchestrator, Code Archaeologist, Performance Optimizer |
+| 32 | [lst97/claude-code-sub-agents](https://github.com/lst97/claude-code-sub-agents) ![GitHub Stars](https://img.shields.io/github/stars/lst97/claude-code-sub-agents?style=flat-square) | Domain-expert subagents with multi-agent orchestration and auto-delegation |
 | 33 | [avifenesh/AgentSys](https://github.com/topics/subagents) | Workflow automation — PR management, code cleanup, drift detection, multi-agent code review with `agnix` linter |
-| 34 | [maslennikov-ig/claude-code-orchestrator-kit](https://github.com/maslennikov-ig/claude-code-orchestrator-kit) | 39 agents, 38 skills, 25 slash commands, MCP configs, quality gates |
+| 34 | [maslennikov-ig/claude-code-orchestrator-kit](https://github.com/maslennikov-ig/claude-code-orchestrator-kit) ![GitHub Stars](https://img.shields.io/github/stars/maslennikov-ig/claude-code-orchestrator-kit?style=flat-square) | 39 agents, 38 skills, 25 slash commands, MCP configs, quality gates |
 
 ## Multi-Agent Orchestrators
 
 | # | Repo | Description |
 |---|------|-------------|
-| 35 | 🔥 [steveyegge/gastown](https://github.com/steveyegge/gastown) | Gas Town — multi-agent workspace manager with persistent identity, convoy system, and git-backed tracking |
-| 36 | [dlorenc/multiclaude](https://github.com/dlorenc/multiclaude) | Multi-agent orchestrator — singleplayer/multiplayer modes, supervisor-subagent pattern |
-| 37 | 🔥 [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad) | Manage multiple AI terminal agents — Claude Code, Codex, OpenCode, Amp |
-| 38 | 🌟 [Dicklesworthstone/claude_code_agent_farm](https://github.com/Dicklesworthstone/claude_code_agent_farm) | Run 20-50 Claude Code agents in parallel with lock-based coordination and tmux monitoring |
-| 39 | ✨ [disler/infinite-agentic-loop](https://github.com/disler/infinite-agentic-loop) | Infinite Agentic Loop — two-prompt system spawning parallel agents for evolving iterations |
-| 40 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | Orchestration platform — multi-agent swarms, self-learning, RAG, hive mind topology |
-| 41 | [ComposioHQ/agent-orchestrator](https://github.com/ComposioHQ/agent-orchestrator) | Agent-agnostic parallel orchestrator — git worktrees, CI auto-fix, review routing |
-| 42 | [Charlie85270/Dorothy](https://github.com/Charlie85270/Dorothy) | Orchestrate multiple AI CLI agents with automations and MCP servers |
+| 35 | [steveyegge/gastown](https://github.com/steveyegge/gastown) ![GitHub Stars](https://img.shields.io/github/stars/steveyegge/gastown?style=flat-square) | Gas Town — multi-agent workspace manager with persistent identity, convoy system, and git-backed tracking |
+| 36 | [dlorenc/multiclaude](https://github.com/dlorenc/multiclaude) ![GitHub Stars](https://img.shields.io/github/stars/dlorenc/multiclaude?style=flat-square) | Multi-agent orchestrator — singleplayer/multiplayer modes, supervisor-subagent pattern |
+| 37 | [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad) ![GitHub Stars](https://img.shields.io/github/stars/smtg-ai/claude-squad?style=flat-square) | Manage multiple AI terminal agents — Claude Code, Codex, OpenCode, Amp |
+| 38 | [Dicklesworthstone/claude_code_agent_farm](https://github.com/Dicklesworthstone/claude_code_agent_farm) ![GitHub Stars](https://img.shields.io/github/stars/Dicklesworthstone/claude_code_agent_farm?style=flat-square) | Run 20-50 Claude Code agents in parallel with lock-based coordination and tmux monitoring |
+| 39 | [disler/infinite-agentic-loop](https://github.com/disler/infinite-agentic-loop) ![GitHub Stars](https://img.shields.io/github/stars/disler/infinite-agentic-loop?style=flat-square) | Infinite Agentic Loop — two-prompt system spawning parallel agents for evolving iterations |
+| 40 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) ![GitHub Stars](https://img.shields.io/github/stars/ruvnet/ruflo?style=flat-square) | Orchestration platform — multi-agent swarms, self-learning, RAG, hive mind topology |
+| 41 | [ComposioHQ/agent-orchestrator](https://github.com/ComposioHQ/agent-orchestrator) ![GitHub Stars](https://img.shields.io/github/stars/ComposioHQ/agent-orchestrator?style=flat-square) | Agent-agnostic parallel orchestrator — git worktrees, CI auto-fix, review routing |
+| 42 | [Charlie85270/Dorothy](https://github.com/Charlie85270/Dorothy) ![GitHub Stars](https://img.shields.io/github/stars/Charlie85270/Dorothy?style=flat-square) | Orchestrate multiple AI CLI agents with automations and MCP servers |
 | 43 | [dtormoen/TSK](https://github.com/topics/claude-code) | Rust CLI tool — delegate tasks to AI agents in sandboxed Docker environments, parallel branches |
 
 ## Plugins & Marketplaces
 
 | # | Repo | Description |
 |---|------|-------------|
-| 44 | [ComposioHQ/awesome-claude-plugins](https://github.com/ComposioHQ/awesome-claude-plugins) | Curated plugins — connect-apps, frontend-design, artifacts-builder, ship, code-review, debugger |
-| 45 | [ccplugins/awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | Curated slash commands, subagents, MCP servers, and hooks |
-| 46 | [Dev-GOM/claude-code-marketplace](https://github.com/Dev-GOM/claude-code-marketplace) | Plugins & extensions — Unity toolkit, VS Code integration, browser automation, audio notifications |
-| 47 | [pchalasani/claude-code-tools](https://github.com/pchalasani/claude-code-tools) | Practical productivity tools — CLI tools, skills, agents, hooks via `uv tool install` |
+| 44 | [ComposioHQ/awesome-claude-plugins](https://github.com/ComposioHQ/awesome-claude-plugins) ![GitHub Stars](https://img.shields.io/github/stars/ComposioHQ/awesome-claude-plugins?style=flat-square) | Curated plugins — connect-apps, frontend-design, artifacts-builder, ship, code-review, debugger |
+| 45 | [ccplugins/awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) ![GitHub Stars](https://img.shields.io/github/stars/ccplugins/awesome-claude-code-plugins?style=flat-square) | Curated slash commands, subagents, MCP servers, and hooks |
+| 46 | [Dev-GOM/claude-code-marketplace](https://github.com/Dev-GOM/claude-code-marketplace) ![GitHub Stars](https://img.shields.io/github/stars/Dev-GOM/claude-code-marketplace?style=flat-square) | Plugins & extensions — Unity toolkit, VS Code integration, browser automation, audio notifications |
+| 47 | [pchalasani/claude-code-tools](https://github.com/pchalasani/claude-code-tools) ![GitHub Stars](https://img.shields.io/github/stars/pchalasani/claude-code-tools?style=flat-square) | Practical productivity tools — CLI tools, skills, agents, hooks via `uv tool install` |
 | 48 | [agent-sh/agnix](https://github.com/topics/claude-code) | Comprehensive linter for CLAUDE.md, AGENTS.md, SKILL.md, hooks, MCP — IDE plugins + auto-fixes |
 | 49 | [klaudworks/codex-skill](https://github.com/topics/claude-skills) | Prompt OpenAI Codex from within Claude Code with auto-inferred parameters |
 | 50 | [Kevin7Qi/codex-collab](https://github.com/topics/claude-skills) | Collaborate with Codex directly from Claude Code |
@@ -108,7 +108,7 @@
 
 | # | Repo | Description |
 |---|------|-------------|
-| 51 | [disler/claude-code-hooks-multi-agent-observability](https://github.com/disler/claude-code-hooks-multi-agent-observability) | Real-time monitoring — hook event tracking, SQLite dashboard, emoji-coded tool events |
+| 51 | [disler/claude-code-hooks-multi-agent-observability](https://github.com/disler/claude-code-hooks-multi-agent-observability) ![GitHub Stars](https://img.shields.io/github/stars/disler/claude-code-hooks-multi-agent-observability?style=flat-square) | Real-time monitoring — hook event tracking, SQLite dashboard, emoji-coded tool events |
 | 52 | [aannoo/Claude Code Hook Comms (HCOM)](https://github.com/topics/claude-code) | Lightweight CLI for real-time communication between subagents using hooks |
 | 53 | [beyondcode/claude-code-hooks-sdk](https://github.com/topics/claude-code) | Laravel-inspired PHP SDK for building hook responses with fluent API |
 | 54 | [John Lindquist/claude-hooks](https://github.com/topics/claude-code) | TypeScript-based system for configuring and customizing hooks |
@@ -131,21 +131,21 @@
 
 | # | Repo | Description |
 |---|------|-------------|
-| 69 | [abhishekray07/claude-md-templates](https://github.com/abhishekray07/claude-md-templates) | CLAUDE.md best practices — global, project, and local templates for Next.js, Python/FastAPI, generic |
-| 70 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | Comprehensive best practices — prompting, planning, agents, commands, skills, hooks, workflows |
-| 71 | [FlorianBruniaux/claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) | 22K+ lines — beginner to power user with 225 templates, 41 diagrams, 271 quiz questions |
-| 72 | [rosmur/claudecode-best-practices](https://github.com/rosmur/claudecode-best-practices) | Evidence-based practices with 58 citations — hooks, skills, scripts, `claude-loop` for task queues |
+| 69 | [abhishekray07/claude-md-templates](https://github.com/abhishekray07/claude-md-templates) ![GitHub Stars](https://img.shields.io/github/stars/abhishekray07/claude-md-templates?style=flat-square) | CLAUDE.md best practices — global, project, and local templates for Next.js, Python/FastAPI, generic |
+| 70 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) ![GitHub Stars](https://img.shields.io/github/stars/shanraisshan/claude-code-best-practice?style=flat-square) | Comprehensive best practices — prompting, planning, agents, commands, skills, hooks, workflows |
+| 71 | [FlorianBruniaux/claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) ![GitHub Stars](https://img.shields.io/github/stars/FlorianBruniaux/claude-code-ultimate-guide?style=flat-square) | 22K+ lines — beginner to power user with 225 templates, 41 diagrams, 271 quiz questions |
+| 72 | [rosmur/claudecode-best-practices](https://github.com/rosmur/claudecode-best-practices) ![GitHub Stars](https://img.shields.io/github/stars/rosmur/claudecode-best-practices?style=flat-square) | Evidence-based practices with 58 citations — hooks, skills, scripts, `claude-loop` for task queues |
 | 73 | [ykdojo/Claude Code Tips](https://github.com/topics/claude-code) | 35+ tips — voice input, system prompt patching, container workflows, multi-model orchestration |
 | 74 | [nikiforovall/Claude Code Handbook](https://github.com/topics/claude-code) | Best practices, tips, and techniques with distributable format |
 | 75 | [Piebald AI/Claude Code System Prompts](https://github.com/topics/claude-code) | All parts of Claude Code's system prompt — builtin tools, sub-agent prompts, utility prompts. Updated per version |
-| 76 | [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | "Bash is all you need" — Build a Claude Code-like agent harness from scratch (12 sessions) |
+| 76 | [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) ![GitHub Stars](https://img.shields.io/github/stars/shareAI-lab/learn-claude-code?style=flat-square) | "Bash is all you need" — Build a Claude Code-like agent harness from scratch (12 sessions) |
 
 ## Cost Optimization & Token Management
 
 | # | Repo | Description |
 |---|------|-------------|
-| 77 | [Sagargupta16/claude-cost-optimizer](https://github.com/Sagargupta16/claude-cost-optimizer) | 6 guides, 15 strategies, 12 CLAUDE.md templates, token estimator, usage analyzer — save 30-60% |
-| 78 | [nadimtuhin/claude-token-optimizer](https://github.com/nadimtuhin/claude-token-optimizer) | 90% token savings — progressive disclosure, framework-specific patterns, 4-file architecture |
+| 77 | [Sagargupta16/claude-cost-optimizer](https://github.com/Sagargupta16/claude-cost-optimizer) ![GitHub Stars](https://img.shields.io/github/stars/Sagargupta16/claude-cost-optimizer?style=flat-square) | 6 guides, 15 strategies, 12 CLAUDE.md templates, token estimator, usage analyzer — save 30-60% |
+| 78 | [nadimtuhin/claude-token-optimizer](https://github.com/nadimtuhin/claude-token-optimizer) ![GitHub Stars](https://img.shields.io/github/stars/nadimtuhin/claude-token-optimizer?style=flat-square) | 90% token savings — progressive disclosure, framework-specific patterns, 4-file architecture |
 | 79 | [ccusage](https://github.com/topics/claude-code) | CLI for analyzing Claude Code usage from local JSONL files — offline mode, zero API calls |
 | 80 | [Memory Hygiene CLI](https://github.com/topics/claude-code) | Prevents context overflow — 83% MEMORY.md size reduction, zero dependencies |
 | 81 | [Zilliz Semantic Code Search MCP](https://github.com/topics/claude-code) | Hybrid BM25 + dense vector search — ~40% token reduction |
@@ -155,9 +155,9 @@
 | # | Repo | Description |
 |---|------|-------------|
 | 82 | [Trail of Bits Security Skills](https://github.com/topics/claude-skills) | Professional security skills — CodeQL/Semgrep static analysis, variant analysis, code auditing, fix verification |
-| 83 | [BehiSecc/vibesec](https://github.com/BehiSecc/vibesec) | VibeSec — prevents IDOR, XSS, SQL injection, SSRF, weak auth from a bug hunter's perspective |
+| 83 | [BehiSecc/vibesec](https://github.com/BehiSecc/vibesec) ![GitHub Stars](https://img.shields.io/github/stars/BehiSecc/vibesec?style=flat-square) | VibeSec — prevents IDOR, XSS, SQL injection, SSRF, weak auth from a bug hunter's perspective |
 | 84 | [owasp-security skill](https://github.com/topics/claude-skills) | OWASP Top 10:2025, ASVS 5.0, Agentic AI security (2026) — checklists for 20+ languages |
-| 85 | [wrsmith108/varlock-claude-skill](https://github.com/wrsmith108/varlock-claude-skill) | Secure environment variable management — secrets never in sessions, terminals, logs, or git |
+| 85 | [wrsmith108/varlock-claude-skill](https://github.com/wrsmith108/varlock-claude-skill) ![GitHub Stars](https://img.shields.io/github/stars/wrsmith108/varlock-claude-skill?style=flat-square) | Secure environment variable management — secrets never in sessions, terminals, logs, or git |
 | 86 | [sanitize skill](https://github.com/topics/claude-skills) | Detect and redact PII from text files — 15 categories, zero dependencies, all processing local |
 | 87 | [ffuf_claude_skill](https://github.com/topics/claude-skills) | Integrate Claude with FFUF (fuzzing) and analyze results for vulnerabilities |
 | 88 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/topics/claude-skills) | 753 cybersecurity skills across 38 domains — MITRE ATT&CK mapped |
@@ -167,7 +167,7 @@
 
 | # | Repo | Description |
 |---|------|-------------|
-| 90 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | 23 marketing skills — CRO, copywriting, SEO, paid ads, growth |
+| 90 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) ![GitHub Stars](https://img.shields.io/github/stars/coreyhaines31/marketingskills?style=flat-square) | 23 marketing skills — CRO, copywriting, SEO, paid ads, growth |
 | 91 | [jonathimer/devmarketing-skills](https://github.com/topics/claude-skills) | 33 developer marketing skills — HN strategy, tutorials, docs-as-marketing, Reddit engagement |
 | 92 | [Digidai/product-manager-skills](https://github.com/topics/claude-skills) | Senior PM agent — 30+ frameworks and SaaS metrics |
 | 93 | [lawvable/awesome-legal-skills](https://github.com/topics/claude-skills) | Curated agent skills for automating legal workflows |
@@ -175,7 +175,7 @@
 | 95 | [ethos-link/rails-conventions](https://github.com/topics/claude-skills) | Rails 8 conventions for consistent production code changes |
 | 96 | [aws-skills](https://github.com/topics/claude-skills) | AWS development with CDK best practices, cost optimization MCP, serverless patterns |
 | 97 | [deusyu/translate-book](https://github.com/topics/claude-skills) | Translate books (PDF/DOCX/EPUB) via parallel sub-agents with resume capability |
-| 98 | [zarazhangrui/codebase-to-course](https://github.com/zarazhangrui/codebase-to-course) | Turn any codebase into a beautiful interactive HTML course |
+| 98 | [zarazhangrui/codebase-to-course](https://github.com/zarazhangrui/codebase-to-course) ![GitHub Stars](https://img.shields.io/github/stars/zarazhangrui/codebase-to-course?style=flat-square) | Turn any codebase into a beautiful interactive HTML course |
 | 99 | [RoundTable02/tutor-skills](https://github.com/topics/claude-skills) | Transform docs/codebases into Obsidian StudyVaults with interactive quizzes |
 | 100 | [Robert Guss/Book Factory](https://github.com/topics/claude-code) | Pipeline of skills replicating traditional publishing infrastructure for nonfiction books |
 | 101 | [revealjs-skill](https://github.com/topics/claude-skills) | Generate polished presentations using Reveal.js HTML framework |
@@ -198,7 +198,7 @@
 
 | # | Repo | Description |
 |---|------|-------------|
-| 111 | [alirezarezvani/claude-code-skill-factory](https://github.com/alirezarezvani/claude-code-skill-factory) | Toolkit for building and deploying production-ready Claude Skills at scale |
+| 111 | [alirezarezvani/claude-code-skill-factory](https://github.com/alirezarezvani/claude-code-skill-factory) ![GitHub Stars](https://img.shields.io/github/stars/alirezarezvani/claude-code-skill-factory?style=flat-square) | Toolkit for building and deploying production-ready Claude Skills at scale |
 | 112 | [yusufkaraaslan/Skill Seekers](https://github.com/topics/claude-skills) | Automatically convert documentation websites, repos, and PDFs into Claude AI skills |
 | 113 | [agentskill.sh](https://agentskills.io) | Browse and install 69,000+ AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Zed |
 | 114 | [Agent Almanac](https://github.com/topics/claude-skills) | 317 skills, 65 agents, 14 teams following the Agent Skills open standard across 50+ domains |
