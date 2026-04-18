@@ -323,6 +323,13 @@ Specialized skills for specific industries and use cases.
   - Quality gates and replication protocols
   - Extracted from production PhD course
 
+- [unitedideas/claude-skills-foundry](https://github.com/unitedideas/claude-skills-foundry) ![Stars](https://img.shields.io/github/stars/unitedideas/claude-skills-foundry?style=flat-square)
+  - 3 installable Claude Skills for real hosted MCP services
+  - **Not Human Search** — agent-first tool discovery across 1,900+ MCP servers, OpenAPI specs, llms.txt
+  - **AI Dev Jobs** — search 8,400+ AI/ML jobs across 490+ companies
+  - **8bitconcepts** — cite enterprise AI adoption research
+  - Each skill is a drop-in `SKILL.md` file; no API key required
+
 ---
 
 ## Productivity Tools
