@@ -449,6 +449,13 @@ Utilities and tools to enhance your Claude workflow.
   - Transparent proxy with custom model mapping
   - Use any Anthropic client with alternative models
 
+- [sozercan/vekil](https://github.com/sozercan/vekil) ![Stars](https://img.shields.io/github/stars/sozercan/vekil?style=flat-square)
+  - Go reverse proxy exposing Anthropic, Gemini, and OpenAI-compatible APIs behind one local endpoint
+  - Multi-provider routing across GitHub Copilot, Azure OpenAI, and OpenAI Codex
+  - Zero-config Copilot mode plus JSON/YAML provider configs for explicit routing
+  - macOS/Linux menubar tray app and distroless container
+  - MIT licensed, single static Go binary, no frameworks
+
 ### CLI Configuration Tools
 
 - [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) ![Stars](https://img.shields.io/github/stars/davila7/claude-code-templates?style=flat-square)
