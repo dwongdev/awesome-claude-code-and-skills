@@ -478,6 +478,12 @@ Utilities and tools to enhance your Claude workflow.
   - Dynamic model switching with /model command
   - GitHub Actions integration
 
+- [MohamedAbdallah-14/unslop](https://github.com/MohamedAbdallah-14/unslop) ![Stars](https://img.shields.io/github/stars/MohamedAbdallah-14/unslop?style=flat-square)
+  - CLI and MCP server that removes AI writing patterns from text
+  - Strips tricolons, em-dash overuse, sycophancy openers, and overused vocabulary
+  - Works with Claude Code, Codex, Gemini CLI, and Cursor via PostToolUse hooks
+  - Five intensity levels plus a lint-only audit mode
+
 ### Autonomous Development
 
 - [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) ![Stars](https://img.shields.io/github/stars/frankbria/ralph-claude-code?style=flat-square)
