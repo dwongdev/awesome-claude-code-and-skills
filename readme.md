@@ -160,6 +160,20 @@ Skills focused on software development, code quality, and engineering workflows.
   - CLI tool with full LLM usage guide
   - Works with Claude Code, Amp, and Codex
 
+- [arun-mosai/claude-code-slice-skills](https://github.com/arun-mosai/claude-code-slice-skills) ![Stars](https://img.shields.io/github/stars/arun-mosai/claude-code-slice-skills?style=flat-square)
+  - Three composable skills (`/slice`, `/slice-resume`, `/slice-build`) for vertical-slice feature development
+  - Turns a one-line feature idea into 11 validated design docs (persona, journey, UI, API, data, security, observability, AI, seed, tests, index)
+  - Then implements the slice as migrations, handlers, UI, events, and tests
+  - 12 validator sub-agents enforce specificity; atomic cycle commit; project-stage-calibrated ceremony
+  - Stack-neutral structure with TypeScript/Postgres/Zod/React defaults and a porting guide for Django/Rails/Go/Next.js
+
+- [voidborne-d/sober-coding](https://github.com/voidborne-d/sober-coding) ![Stars](https://img.shields.io/github/stars/voidborne-d/sober-coding?style=flat-square)
+  - Post-generation quality analyzer for AI-written code — 27 rules across 7 dimensions (dead code, duplication, architecture, error handling, dependencies, security, testing)
+  - Targets AI-native smells that ESLint/SonarQube miss: over-generation leftovers, structural clones, empty except blocks, god files, unused deps
+  - `sober scan .` prints a 0–100 sobriety score with severity-bucketed findings; `sober fix <rule-id>` returns actionable fix instructions per rule
+  - Language-agnostic and zero-config; CI mode returns non-zero on threshold breaches
+  - Ships Claude Code slash commands so reviews run as a /command inside the editor
+
 ### Specialized Agents
 
 - [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) ![Stars](https://img.shields.io/github/stars/VoltAgent/awesome-claude-code-subagents?style=flat-square)
@@ -323,12 +337,19 @@ Specialized skills for specific industries and use cases.
   - Quality gates and replication protocols
   - Extracted from production PhD course
 
-- [unitedideas/claude-skills-foundry](https://github.com/unitedideas/claude-skills-foundry) ![Stars](https://img.shields.io/github/stars/unitedideas/claude-skills-foundry?style=flat-square)
-  - 3 installable Claude Skills for real hosted MCP services
-  - **Not Human Search** — agent-first tool discovery across 1,900+ MCP servers, OpenAPI specs, llms.txt
-  - **AI Dev Jobs** — search 8,400+ AI/ML jobs across 490+ companies
-  - **8bitconcepts** — cite enterprise AI adoption research
-  - Each skill is a drop-in `SKILL.md` file; no API key required
+- [takechanman1228/claude-ecom](https://github.com/takechanman1228/claude-ecom) ![Stars](https://img.shields.io/github/stars/takechanman1228/claude-ecom?style=flat-square)
+  - Ecommerce business review skill for D2C stores
+  - Multi-horizon KPI decomposition across 30d/90d/365d
+  - ~30 automated health checks across revenue, customer, and product
+  - RFM cohorts and prioritized action plan with impact estimates
+  - Hybrid Python-backend + Claude-LLM architecture for deterministic KPIs
+
+- [voidborne-d/humanize-chinese](https://github.com/voidborne-d/humanize-chinese) ![Stars](https://img.shields.io/github/stars/voidborne-d/humanize-chinese?style=flat-square)
+  - Detector + rewriter for Chinese AI-generated text — pure Python, zero dependencies
+  - 0–100 statistical scorer across 11 weighted dimensions (discourse density, parallel structure, four-character cliché, hedging, etc.) plus sentence-level breakdown
+  - 7 style transforms (casual / zhihu / xiaohongshu / wechat / academic / literary / weibo) with genre-aware auto-routing for long-form text
+  - Targeted optimizations for Chinese academic platforms (CNKI / VIP / Wanfang / 朱雀) with hedging injection and four-char cluster smoothing
+  - Ships as a Claude Code skill plus standalone CLI; offline-first, no API keys
 
 ---
 
@@ -368,6 +389,11 @@ Utilities and tools to enhance your Claude workflow.
   - Responsive design works on desktop, tablet, and mobile
   - Built-in chat, shell terminal, file explorer, and git integration
   - Plugin system for custom extensions
+
+- [jazzyalex/agent-sessions](https://github.com/jazzyalex/agent-sessions) ![Stars](https://img.shields.io/github/stars/jazzyalex/agent-sessions?style=flat-square)
+  - Native macOS app for searching, browsing, and resuming Claude Code sessions alongside Codex, Gemini CLI, OpenCode, and other agents
+  - Agent Cockpit provides live iTerm2 orchestration and monitoring for active local agent sessions
+  - Local-first transcript indexing with no telemetry
 
 ### Agent Harnesses & Meta-Tools
 
@@ -427,6 +453,13 @@ Utilities and tools to enhance your Claude workflow.
   - Interactive process control and session management
   - Docker isolation for sandboxing
 
+- [kubestellar/console](https://github.com/kubestellar/console) ![Stars](https://img.shields.io/github/stars/kubestellar/console?style=flat-square)
+  - MCP server (`kc-agent`) bridging AI assistants to multi-cluster Kubernetes
+  - Manage workloads, pods, namespaces, and RBAC across clusters via natural language
+  - Built-in AI-powered dashboard with 250+ CNCF project integrations
+  - Works with Claude Code, Claude Desktop, and any MCP-compatible client
+  - Live demo: https://console.kubestellar.io
+
 ### API & Integration Tools
 
 - [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) ![Stars](https://img.shields.io/github/stars/router-for-me/CLIProxyAPI?style=flat-square)
@@ -442,6 +475,13 @@ Utilities and tools to enhance your Claude workflow.
   - Transparent proxy with custom model mapping
   - Use any Anthropic client with alternative models
 
+- [sozercan/vekil](https://github.com/sozercan/vekil) ![Stars](https://img.shields.io/github/stars/sozercan/vekil?style=flat-square)
+  - Go reverse proxy exposing Anthropic, Gemini, and OpenAI-compatible APIs behind one local endpoint
+  - Multi-provider routing across GitHub Copilot, Azure OpenAI, and OpenAI Codex
+  - Zero-config Copilot mode plus JSON/YAML provider configs for explicit routing
+  - macOS/Linux menubar tray app and distroless container
+  - MIT licensed, single static Go binary, no frameworks
+
 ### CLI Configuration Tools
 
 - [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) ![Stars](https://img.shields.io/github/stars/davila7/claude-code-templates?style=flat-square)
@@ -456,6 +496,12 @@ Utilities and tools to enhance your Claude workflow.
   - Multi-provider support (OpenRouter, DeepSeek, Ollama, Gemini)
   - Dynamic model switching with /model command
   - GitHub Actions integration
+
+- [MohamedAbdallah-14/unslop](https://github.com/MohamedAbdallah-14/unslop) ![Stars](https://img.shields.io/github/stars/MohamedAbdallah-14/unslop?style=flat-square)
+  - CLI and MCP server that removes AI writing patterns from text
+  - Strips tricolons, em-dash overuse, sycophancy openers, and overused vocabulary
+  - Works with Claude Code, Codex, Gemini CLI, and Cursor via PostToolUse hooks
+  - Five intensity levels plus a lint-only audit mode
 
 ### Autonomous Development
 
@@ -494,6 +540,13 @@ Utilities and tools to enhance your Claude workflow.
   - Understand core agent workflow and architecture
   - Context compaction and task/sub-agent analysis
 
+- [jakemarsh/ccthread](https://github.com/jakemarsh/ccthread) ![Stars](https://img.shields.io/github/stars/jakemarsh/ccthread?style=flat-square)
+  - Read, search, and have Claude summarize your Claude Code conversation logs from the CLI
+  - Reads session `.jsonl` files from `~/.claude/projects/` and renders clean markdown
+  - Cross-project keyword search with `find` and `search` commands
+  - `current` keyword resolves the session you're in right now (`--before-last-compact` supported)
+  - Ships as both a Claude Code plugin and a standalone binary
+
 ### Configuration & Templates
 
 - [abhishekray07/claude-md-templates](https://github.com/abhishekray07/claude-md-templates) ![Stars](https://img.shields.io/github/stars/abhishekray07/claude-md-templates?style=flat-square)
@@ -507,6 +560,13 @@ Utilities and tools to enhance your Claude workflow.
   - Commands, skills, hooks, and workflows
 
 ### Cost Optimization
+
+- [garvitsurana/burnd](https://github.com/garvitsurana/burnd) ![Stars](https://img.shields.io/github/stars/garvitsurana/burnd?style=flat-square)
+  - Local-first CLI that reads `.claude/projects/*.jsonl` session files
+  - Finds cost leaks: retry storms, tool overuse, repeated reads, long bash output
+  - Flags tired-coding hours and project-cost outliers
+  - Runs entirely offline, no data leaves your machine
+  - Free core + optional Pro detectors (`npx getburnd`)
 
 - [Sagargupta16/claude-cost-optimizer](https://github.com/Sagargupta16/claude-cost-optimizer) ![Stars](https://img.shields.io/github/stars/Sagargupta16/claude-cost-optimizer?style=flat-square)
   - Save 30-60% on Claude API costs
