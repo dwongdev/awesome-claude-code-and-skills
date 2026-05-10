@@ -99,6 +99,11 @@ These repositories offer extensive collections of skills across multiple domains
   - Compliance and C-level advisory capabilities
   - Compatible with 11 different tools
 
+- [Claude Code Skills 中文精选集](https://claude-skills.bt199.com/)
+  - Chinese directory for Claude Code Skills, agents, and plugins
+  - 140+ curated resources for Chinese-speaking developers
+  - Useful for discovering practical skills by category
+
 - [garrytan/gstack](https://github.com/garrytan/gstack) ![Stars](https://img.shields.io/github/stars/garrytan/gstack?style=flat-square)
   - Garry Tan's exact Claude Code setup
   - 6 opinionated tools for startup leadership
