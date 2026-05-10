@@ -350,6 +350,12 @@ Specialized skills for specific industries and use cases.
   - RFM cohorts and prioritized action plan with impact estimates
   - Hybrid Python-backend + Claude-LLM architecture for deterministic KPIs
 
+- [Xquik-dev/tweetclaw](https://github.com/Xquik-dev/tweetclaw) ![Stars](https://img.shields.io/github/stars/Xquik-dev/tweetclaw?style=flat-square)
+  - OpenClaw plugin and agent skill for X/Twitter automation
+  - Search tweets and tweet replies, post tweets and replies, and export followers
+  - Includes media upload, media download, direct messages, monitors, webhooks, and giveaway draws
+  - Ships GitHub docs, npm install, ClawHub listing, and Context7 reference docs
+
 - [voidborne-d/humanize-chinese](https://github.com/voidborne-d/humanize-chinese) ![Stars](https://img.shields.io/github/stars/voidborne-d/humanize-chinese?style=flat-square)
   - Detector + rewriter for Chinese AI-generated text — pure Python, zero dependencies
   - 0–100 statistical scorer across 11 weighted dimensions (discourse density, parallel structure, four-character cliché, hedging, etc.) plus sentence-level breakdown
