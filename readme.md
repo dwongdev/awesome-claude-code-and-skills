@@ -116,6 +116,11 @@ These repositories offer extensive collections of skills across multiple domains
   - 146 skills and 79 tools
   - Well-organized by use case
 
+- [swarmclawai/andrej-karpathy-skills](https://github.com/swarmclawai/andrej-karpathy-skills) ![Stars](https://img.shields.io/github/stars/swarmclawai/andrej-karpathy-skills?style=flat-square)
+  - Npm-installable Karpathy-inspired coding-agent guidelines
+  - Adapters for Claude Code, Codex, Cursor, Gemini CLI, OpenCode, OpenClaw, Windsurf, Aider, and more
+  - Installs with `npx @swarmclawai/andrej-karpathy-skills --agent claude --dest .`
+
 - [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) ![Stars](https://img.shields.io/github/stars/VoltAgent/awesome-agent-skills?style=flat-square)
   - 1000+ agent skills from official dev teams
   - Contributions from Sentry, Trail of Bits, Expo, DuckDB, Figma, Google
