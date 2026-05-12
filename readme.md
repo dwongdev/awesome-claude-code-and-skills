@@ -326,6 +326,13 @@ Skills for marketing professionals, content creators, and growth teams.
   - Beautiful, educational content generation
   - Perfect for developer education and onboarding
 
+- [takechanman1228/claude-persona](https://github.com/takechanman1228/claude-persona) ![Stars](https://img.shields.io/github/stars/takechanman1228/claude-persona?style=flat-square)
+  - AI persona panels for customer research, inspired by Microsoft's TinyTroupe
+  - `/persona generate`, `/persona ask`, `/persona concept-test` slash commands
+  - Agent-separated simulation: each persona runs in its own `claude -p` subprocess
+  - Executive report with theme synthesis, cross-tabs, charts, and verbatims
+  - Four bundled demos with pre-generated panels and full results
+
 ---
 
 ## Domain-Specific Skills
