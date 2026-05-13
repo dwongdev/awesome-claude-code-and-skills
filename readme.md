@@ -252,6 +252,13 @@ Orchestrate multiple Claude agents to work together on complex tasks.
   - Evolving iterations for complex problem-solving
   - Self-improving agent patterns
 
+- [ratamaha-git/agency-os](https://github.com/ratamaha-git/agency-os) ![Stars](https://img.shields.io/github/stars/ratamaha-git/agency-os?style=flat-square)
+  - Run your work like an AI agency from a single Notion board
+  - Plans ideas into dependency-sequenced subtasks
+  - Dispatches each task to the right model (Haiku/Sonnet/Opus)
+  - Collects results back in Notion via MCP
+  - Pluggable to Claude Code, Cursor, Cline, or any MCP-compatible agent
+
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) ![Stars](https://img.shields.io/github/stars/ruvnet/ruflo?style=flat-square)
   - Multi-agent swarm orchestration
   - Self-learning capabilities
