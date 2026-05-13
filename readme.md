@@ -326,12 +326,12 @@ Skills for marketing professionals, content creators, and growth teams.
   - Beautiful, educational content generation
   - Perfect for developer education and onboarding
 
-- [takechanman1228/claude-persona](https://github.com/takechanman1228/claude-persona) ![Stars](https://img.shields.io/github/stars/takechanman1228/claude-persona?style=flat-square)
-  - AI persona panels for customer research, inspired by Microsoft's TinyTroupe
-  - `/persona generate`, `/persona ask`, `/persona concept-test` slash commands
-  - Agent-separated simulation: each persona runs in its own `claude -p` subprocess
-  - Executive report with theme synthesis, cross-tabs, charts, and verbatims
-  - Four bundled demos with pre-generated panels and full results
+- [clockless-org/html-anything](https://github.com/clockless-org/html-anything) ![Stars](https://img.shields.io/github/stars/clockless-org/html-anything?style=flat-square)
+  - Turn any file, folder, URL, or service export into a polished single-file HTML page
+  - Auto picks one of 16 design systems (lesson lab, map atlas, timeline story, relationship rhythm, network map, dashboard, document review, terminal evidence, living essay, editorial carousel, paper trail, …)
+  - 34 source parsers — CSV, PDF, DOCX, JSON/JSONL, log, GPX/KML, WhatsApp/WeChat/Slack/Discord/Telegram, Amazon orders, Kindle highlights, Spotify, Apple Health, LinkedIn, Google Photos Takeout, vCard, Venmo/PayPal, browser history, …
+  - Self-contained — inline CSS/JS, no CDN, works offline; [22-demo live gallery](https://clockless-org.github.io/html-anything/examples/)
+  - Cross-agent — Claude Code, Codex, Cursor, Cline, Windsurf via `npx skills add clockless-org/html-anything`
 
 ---
 
