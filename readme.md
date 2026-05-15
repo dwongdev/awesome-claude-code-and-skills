@@ -184,6 +184,13 @@ Skills focused on software development, code quality, and engineering workflows.
   - Language-agnostic and zero-config; CI mode returns non-zero on threshold breaches
   - Ships Claude Code slash commands so reviews run as a /command inside the editor
 
+- [mturac/recsys-pipeline-architect](https://github.com/mturac/recsys-pipeline-architect) ![Stars](https://img.shields.io/github/stars/mturac/recsys-pipeline-architect?style=flat-square)
+  - Designs composable recommendation, ranking, and feed pipelines using the six-stage **Source → Hydrator → Filter → Scorer → Selector → SideEffect** framework
+  - Pattern popularized by xAI's open-sourced [X For You algorithm](https://github.com/xai-org/x-algorithm) — independent MIT reimplementation
+  - Walks Claude through eight clarifying steps and surfaces architectural trade-offs (multi-action vs single-score, candidate isolation vs joint, online vs offline batch)
+  - Emits runnable scaffolds for Strapi v5 (TypeScript / Jest), Go (with generics), or Python / FastAPI — all three example suites green
+  - Vendor-agnostic: works with Claude Code, Codex CLI, Cursor, Gemini CLI, and 13 more agents via `npx skills add mturac/recsys-pipeline-architect`
+
 ### Specialized Agents
 
 - [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) ![Stars](https://img.shields.io/github/stars/VoltAgent/awesome-claude-code-subagents?style=flat-square)
