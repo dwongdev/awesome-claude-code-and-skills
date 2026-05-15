@@ -431,6 +431,10 @@ Utilities and tools to enhance your Claude workflow.
   - Agent Cockpit provides live iTerm2 orchestration and monitoring for active local agent sessions
   - Local-first transcript indexing with no telemetry
 
+- [agentfm-ai/agent-fm](https://github.com/agentfm-ai/agent-fm) ![Stars](https://img.shields.io/github/stars/agentfm-ai/agent-fm?style=flat-square)
+  - Local, open-source macOS app for listening to Claude Code and Codex agents as they work
+  - Global Mix across active sessions, blocker alerts, and BYOK Gemini/OpenAI narration
+
 ### Agent Harnesses & Meta-Tools
 
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) ![Stars](https://img.shields.io/github/stars/code-yeongyu/oh-my-openagent?style=flat-square)
