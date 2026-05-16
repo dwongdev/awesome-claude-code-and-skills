@@ -138,6 +138,29 @@ These repositories offer extensive collections of skills across multiple domains
   - Deep research capabilities with autonomous web research
   - MCP server integration and workflow automation
 
+- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) ![Stars](https://img.shields.io/github/stars/hesreallyhim/awesome-claude-code?style=flat-square)
+  - One of the largest community-curated Claude Code lists
+  - Indexes skills, hooks, slash commands, agent orchestrators, applications, and plugins
+  - Tagged for agentic coding and AI workflow optimization
+  - Frequently referenced as a starting point for Claude Code newcomers
+
+- [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) ![Stars](https://img.shields.io/github/stars/ComposioHQ/awesome-claude-skills?style=flat-square)
+  - Composio-curated directory of Claude Skills, plugins, and workflow integrations
+  - Covers agent skills, MCP servers, Claude Code, Codex, Cursor, Gemini CLI, and Antigravity
+  - Sections for SaaS automation, developer tools, and Rube integrations
+  - Active community contributions with Python-driven generator scripts
+
+- [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) ![Stars](https://img.shields.io/github/stars/travisvn/awesome-claude-skills?style=flat-square)
+  - Curated list focused on Claude Skills with a Claude Code emphasis
+  - Includes Claude Code, Claude Desktop, and Claude AI tooling
+  - Lightweight directory designed for fast scanning
+
+- [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) ![Stars](https://img.shields.io/github/stars/muratcankoylan/Agent-Skills-for-Context-Engineering?style=flat-square)
+  - Open collection of agent skills focused on context engineering principles
+  - Foundational, architectural, operational, and methodology skill tracks
+  - Skills cover context compression, degradation patterns, memory systems, tool design, and LLM-as-judge evaluation
+  - Designed for production-grade agent systems on any agent platform
+
 ---
 
 ## Development & Engineering
@@ -190,6 +213,24 @@ Skills focused on software development, code quality, and engineering workflows.
   - Walks Claude through eight clarifying steps and surfaces architectural trade-offs (multi-action vs single-score, candidate isolation vs joint, online vs offline batch)
   - Emits runnable scaffolds for Strapi v5 (TypeScript / Jest), Go (with generics), or Python / FastAPI — all three example suites green
   - Vendor-agnostic: works with Claude Code, Codex CLI, Cursor, Gemini CLI, and 13 more agents via `npx skills add mturac/recsys-pipeline-architect`
+
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) ![Stars](https://img.shields.io/github/stars/addyosmani/agent-skills?style=flat-square)
+  - Production-grade engineering skills aimed at AI coding agents
+  - Targets Claude Code, Cursor, and Antigravity IDE workflows
+  - Shell-driven and MIT licensed
+  - Maintained by Addy Osmani
+
+- [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) ![Stars](https://img.shields.io/github/stars/EveryInc/compound-engineering-plugin?style=flat-square)
+  - Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
+  - Loop of `/ce-brainstorm`, `/ce-plan`, `/ce-work`, `/ce-code-review`, and `/ce-compound`
+  - `/ce-strategy` anchors a `STRATEGY.md` and `/ce-product-pulse` writes time-windowed pulse reports
+  - Published as `@every-env/compound-plugin` on npm; documented by Every Inc
+
+- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) ![Stars](https://img.shields.io/github/stars/OthmanAdi/planning-with-files?style=flat-square)
+  - Claude Code skill implementing Manus-style persistent markdown planning
+  - Plans live as files so they survive context resets and span sessions
+  - Compatible with Claude Code, Hermes Agent, OpenClaw, Kilocode, Copilot, and Mastra
+  - Python-backed and MIT licensed
 
 ### Specialized Agents
 
@@ -394,6 +435,30 @@ Specialized skills for specific industries and use cases.
   - Targeted optimizations for Chinese academic platforms (CNKI / VIP / Wanfang / 朱雀) with hedging injection and four-char cluster smoothing
   - Ships as a Claude Code skill plus standalone CLI; offline-first, no API keys
 
+- [blader/humanizer](https://github.com/blader/humanizer) ![Stars](https://img.shields.io/github/stars/blader/humanizer?style=flat-square)
+  - Claude Code and OpenCode skill that removes signs of AI-generated writing
+  - Installs by cloning into `~/.claude/skills/humanizer` or `~/.config/opencode/skills/humanizer`
+  - Single-file `SKILL.md` invoked via `/humanizer` in either tool
+  - MIT licensed
+
+- [santifer/career-ops](https://github.com/santifer/career-ops) ![Stars](https://img.shields.io/github/stars/santifer/career-ops?style=flat-square)
+  - End-to-end job-search system built on Claude Code with 14 skill modes
+  - Resume tailoring, batch outreach, interview prep, and PDF generation
+  - Go dashboard for tracking applications and pipeline status
+  - MIT licensed; site at career-ops.org
+
+- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) ![Stars](https://img.shields.io/github/stars/mvanhorn/last30days-skill?style=flat-square)
+  - Agent skill that researches topics across Reddit, X, YouTube, Hacker News, TikTok, Polymarket, Bluesky, and the open web
+  - Synthesizes findings into a grounded recency summary, weighted toward the last 30 days
+  - Targets deep research, social-media monitoring, and trend tracking
+  - Compatible with Claude Code, OpenClaw, and ClawHub
+
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) ![Stars](https://img.shields.io/github/stars/K-Dense-AI/scientific-agent-skills?style=flat-square)
+  - Ready-to-use agent skills for research, science, engineering, analysis, finance, and writing
+  - Coverage includes bioinformatics, chemoinformatics, genomics, proteomics, and materials science
+  - Targets Claude Code and Claude Skills runtimes
+  - Maintained by K-Dense AI; MIT licensed
+
 ---
 
 ## Productivity Tools
@@ -471,6 +536,24 @@ Utilities and tools to enhance your Claude workflow.
   - Vector database for efficient codebase storage
   - Cost-effective for large codebases
   - No multi-round discovery needed
+
+- [safishamsi/graphify](https://github.com/safishamsi/graphify) ![Stars](https://img.shields.io/github/stars/safishamsi/graphify?style=flat-square)
+  - Knowledge-graph skill that ingests code, SQL schemas, R/shell scripts, docs, papers, images, and videos
+  - One graph holds application code, database schema, and infrastructure side by side
+  - Uses tree-sitter parsing and Leiden community detection for GraphRAG
+  - Works with Claude Code, Codex, OpenCode, Cursor, and Gemini CLI
+
+- [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) ![Stars](https://img.shields.io/github/stars/tirth8205/code-review-graph?style=flat-square)
+  - Builds a persistent, incremental knowledge graph of your codebase for Claude Code
+  - Claims roughly 6.8x fewer tokens on reviews and up to 49x on daily coding tasks
+  - Tree-sitter static analysis exposed via MCP for graph queries
+  - Python and MIT licensed; project site at code-review-graph.com
+
+- [mksglu/context-mode](https://github.com/mksglu/context-mode) ![Stars](https://img.shields.io/github/stars/mksglu/context-mode?style=flat-square)
+  - Sandboxes tool output to compress context for AI coding agents
+  - Claims up to 98% context reduction across long sessions
+  - Ships hooks, skills, and an MCP server for 15+ platforms (Claude Code, Codex, Cursor, Kiro, Zed, OpenClaw)
+  - Project site at context-mode.com
 
 ### MCP Servers & Integrations
 
@@ -601,6 +684,11 @@ Utilities and tools to enhance your Claude workflow.
   - `current` keyword resolves the session you're in right now (`--before-last-compact` supported)
   - Ships as both a Claude Code plugin and a standalone binary
 
+- [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) ![Stars](https://img.shields.io/github/stars/jarrodwatts/claude-hud?style=flat-square)
+  - Claude Code plugin that surfaces context usage, active tools, running agents, and todo progress
+  - Statusline-style HUD that updates while the agent works
+  - TypeScript implementation; MIT licensed
+
 ### Configuration & Templates
 
 - [abhishekray07/claude-md-templates](https://github.com/abhishekray07/claude-md-templates) ![Stars](https://img.shields.io/github/stars/abhishekray07/claude-md-templates?style=flat-square)
@@ -633,6 +721,12 @@ Utilities and tools to enhance your Claude workflow.
   - Progressive disclosure patterns
   - Framework-specific optimization
   - 4-file architecture for minimal context
+
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) ![Stars](https://img.shields.io/github/stars/JuliusBrussee/caveman?style=flat-square)
+  - Claude Code skill that rewrites prompts and responses in compressed caveman-style language
+  - Claims roughly 65% token reduction by stripping function words and filler
+  - JavaScript implementation; MIT licensed
+  - Project site at getcaveman.dev
 
 ---
 
@@ -714,6 +808,12 @@ Resources for mastering Claude skills and understanding best practices.
   - Flow control, error codes, and security implementations
   - Custom status lines and output styles
 
+- [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) ![Stars](https://img.shields.io/github/stars/luongnv89/claude-howto?style=flat-square)
+  - Visual, example-driven guide to Claude Code
+  - Progresses from basic concepts to advanced agent patterns
+  - Ships copy-paste templates for immediate use
+  - Hosted at luongnv.com/claude-howto; MIT licensed
+
 ---
 
 ## Skill Development
@@ -725,6 +825,24 @@ Tools and frameworks for creating your own Claude skills.
   - Deployment automation
   - Best practices and templates
   - Scale from prototype to production
+
+- [agentskills/agentskills](https://github.com/agentskills/agentskills) ![Stars](https://img.shields.io/github/stars/agentskills/agentskills?style=flat-square)
+  - Open specification, documentation, and reference SDK for Agent Skills
+  - Defines the `SKILL.md` format used across Claude Code and compatible agents
+  - Maintained by Anthropic with community contributions
+  - Apache 2.0 licensed (code) and CC-BY-4.0 (docs); companion site at agentskills.io
+
+- [numman-ali/openskills](https://github.com/numman-ali/openskills) ![Stars](https://img.shields.io/github/stars/numman-ali/openskills?style=flat-square)
+  - Universal `SKILL.md` loader installable via `npm i -g openskills`
+  - Brings Anthropic's skills system to Claude Code, Cursor, Windsurf, Aider, Codex, and any tool that reads `AGENTS.md`
+  - Project-local installs default to `./.claude/skills`; `--global` writes to `~/.claude/skills`
+  - Supports private git repos and local paths
+
+- [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) ![Stars](https://img.shields.io/github/stars/yusufkaraaslan/Skill_Seekers?style=flat-square)
+  - Converts documentation sites, GitHub repositories, and PDFs into Claude AI skills
+  - Automatic conflict detection between overlapping skill definitions
+  - AST parsing, OCR for PDFs, and web scraping pipelines
+  - MIT licensed; hosted version at skillseekersweb.com
 
 ---
 
