@@ -232,6 +232,12 @@ Skills focused on software development, code quality, and engineering workflows.
   - Compatible with Claude Code, Hermes Agent, OpenClaw, Kilocode, Copilot, and Mastra
   - Python-backed and MIT licensed
 
+- [mturac/pluginpool](https://github.com/mturac/pluginpool) ![Stars](https://img.shields.io/github/stars/mturac/pluginpool?style=flat-square)
+  - Ten focused Claude Code plugins for everyday developer productivity
+  - Includes **commit-narrator**, **pr-storyteller**, **test-gap**, **deps-doctor**, **env-lint**, **secret-guard**, **standup-gen**, **todo-harvest**, **flaky-detector**, **changelog-forge**
+  - 89 hermetic tests across the suite, Python standard library only at runtime
+  - Each plugin is a self-contained repo; install all via marketplace: `/plugin marketplace add mturac/pluginpool`. MIT licensed.
+
 ### Specialized Agents
 
 - [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) ![Stars](https://img.shields.io/github/stars/VoltAgent/awesome-claude-code-subagents?style=flat-square)
