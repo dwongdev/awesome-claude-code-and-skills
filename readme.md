@@ -81,6 +81,11 @@ Start here for official tools and documentation from Anthropic.
   - Cloud provider integration (AWS Bedrock, GCP Vertex AI)
   - Official foundation for Claude Code automation
 
+- [anthropics/claude-for-legal](https://github.com/anthropics/claude-for-legal) ![Stars](https://img.shields.io/github/stars/anthropics/claude-for-legal?style=flat-square)
+  - Official Anthropic suite of plugins for legal workflows
+  - Targets common legal-team tasks across drafting, review, and search
+  - Python-based; maintained by Anthropic
+
 ---
 
 ## Comprehensive Skill Collections
@@ -161,6 +166,66 @@ These repositories offer extensive collections of skills across multiple domains
   - Skills cover context compression, degradation patterns, memory systems, tool design, and LLM-as-judge evaluation
   - Designed for production-grade agent systems on any agent platform
 
+- [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) ![Stars](https://img.shields.io/github/stars/VoltAgent/awesome-openclaw-skills?style=flat-square)
+  - 5,400+ skills filtered and categorized from the OpenClaw Skills Registry
+  - Indexed by domain with quality and recency filters
+  - Companion to VoltAgent's awesome-agent-skills and awesome-claude-code-subagents lists
+
+- [huggingface/skills](https://github.com/huggingface/skills) ![Stars](https://img.shields.io/github/stars/huggingface/skills?style=flat-square)
+  - Skills for plugging the Hugging Face ecosystem into AI coding agents
+  - Covers model search, dataset access, Spaces, and Inference Endpoints
+  - Python-driven, maintained by Hugging Face
+
+- [microsoft/skills](https://github.com/microsoft/skills) ![Stars](https://img.shields.io/github/stars/microsoft/skills?style=flat-square)
+  - Microsoft-published skills, MCP servers, and Custom Agents
+  - Ships `AGENTS.md` bundles for grounding coding agents
+  - TypeScript-driven; useful starting point for enterprise teams
+
+- [antfu/skills](https://github.com/antfu/skills) ![Stars](https://img.shields.io/github/stars/antfu/skills?style=flat-square)
+  - Anthony Fu's curated collection of agent skills
+  - Skills cover web tooling, build configuration, and developer ergonomics
+  - TypeScript implementation
+
+- [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills) ![Stars](https://img.shields.io/github/stars/ConardLi/garden-skills?style=flat-square)
+  - ConardLi's open-source skills collection
+  - Web design, knowledge retrieval, and image generation skills
+  - CSS-driven visual assets
+
+- [heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) ![Stars](https://img.shields.io/github/stars/heilcheng/awesome-agent-skills?style=flat-square)
+  - Tutorials, guides, and agent-skills directories in one place
+  - Aggregates resources across the agent-skills ecosystem
+  - TypeScript-based site for browsing
+
+- [libukai/awesome-agent-skills](https://github.com/libukai/awesome-agent-skills) ![Stars](https://img.shields.io/github/stars/libukai/awesome-agent-skills?style=flat-square)
+  - Chinese-language ultimate guide to Agent Skills
+  - Quick start, resource recommendations, curated skills, and tooling
+  - Python-driven generator
+
+- [langgptai/awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts) ![Stars](https://img.shields.io/github/stars/langgptai/awesome-claude-prompts?style=flat-square)
+  - Curated Claude prompts for everyday use cases
+  - Helps non-developers get more from Claude
+  - Maintained by LangGPT
+
+- [davepoon/buildwithclaude](https://github.com/davepoon/buildwithclaude) ![Stars](https://img.shields.io/github/stars/davepoon/buildwithclaude?style=flat-square)
+  - Hub for Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections
+  - Extends Claude Code and Claude Desktop
+  - Python-driven discovery layer
+
+- [jnMetaCode/superpowers-zh](https://github.com/jnMetaCode/superpowers-zh) ![Stars](https://img.shields.io/github/stars/jnMetaCode/superpowers-zh?style=flat-square)
+  - Chinese expansion of obra/superpowers
+  - Translates the upstream skill bundle and adds six original Chinese skills
+  - Shell-based installer
+
+- [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) ![Stars](https://img.shields.io/github/stars/mergisi/awesome-openclaw-agents?style=flat-square)
+  - 162 production-ready AI agent templates with `SOUL.md` configs
+  - Templates organized into 19 categories
+  - HTML-driven gallery
+
+- [clawdbot-ai/awesome-openclaw-skills-zh](https://github.com/clawdbot-ai/awesome-openclaw-skills-zh) ![Stars](https://img.shields.io/github/stars/clawdbot-ai/awesome-openclaw-skills-zh?style=flat-square)
+  - Chinese-language OpenClaw skill library
+  - Translated and reorganized by scenario for natural-language invocation
+  - Companion to the official Clawdbot skills directory
+
 ---
 
 ## Development & Engineering
@@ -232,6 +297,46 @@ Skills focused on software development, code quality, and engineering workflows.
   - Compatible with Claude Code, Hermes Agent, OpenClaw, Kilocode, Copilot, and Mastra
   - Python-backed and MIT licensed
 
+- [twostraws/SwiftUI-Agent-Skill](https://github.com/twostraws/SwiftUI-Agent-Skill) ![Stars](https://img.shields.io/github/stars/twostraws/SwiftUI-Agent-Skill?style=flat-square)
+  - SwiftUI-focused agent skill for Claude Code, Codex, and other AI tools
+  - Curated by Paul Hudson (Hacking with Swift)
+  - Covers UI patterns, layout primitives, and SwiftUI + Combine idioms
+
+- [tw93/Waza](https://github.com/tw93/Waza) ![Stars](https://img.shields.io/github/stars/tw93/Waza?style=flat-square)
+  - Engineering habits packaged as runnable Claude skills
+  - Shell-driven installer drops skills into your `~/.claude` directory
+  - Focused on day-to-day development workflow ergonomics
+
+- [coleam00/excalidraw-diagram-skill](https://github.com/coleam00/excalidraw-diagram-skill) ![Stars](https://img.shields.io/github/stars/coleam00/excalidraw-diagram-skill?style=flat-square)
+  - Skill for generating Excalidraw diagrams from natural language
+  - Works with Claude Code and any compatible coding agent
+  - Python-based; lightweight, no external services
+
+- [lackeyjb/playwright-skill](https://github.com/lackeyjb/playwright-skill) ![Stars](https://img.shields.io/github/stars/lackeyjb/playwright-skill?style=flat-square)
+  - Claude Code skill for browser automation with Playwright
+  - Model-invoked: Claude autonomously writes and runs Playwright scripts
+  - JavaScript-driven; complements general development workflows
+
+- [uditgoenka/autoresearch](https://github.com/uditgoenka/autoresearch) ![Stars](https://img.shields.io/github/stars/uditgoenka/autoresearch?style=flat-square)
+  - Claude Autoresearch skill for autonomous goal-directed iteration
+  - Modify, test, and reflect loop inspired by Karpathy's autoresearch
+  - Shell-based; runs locally as a Claude Code skill
+
+- [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) ![Stars](https://img.shields.io/github/stars/nicobailon/visual-explainer?style=flat-square)
+  - Agent skill that generates rich HTML pages or slide decks
+  - Targets diagrams, diff reviews, plan audits, data tables, and project recaps
+  - HTML output is self-contained and shareable
+
+- [automazeio/ccpm](https://github.com/automazeio/ccpm) ![Stars](https://img.shields.io/github/stars/automazeio/ccpm?style=flat-square)
+  - Project management skill system for AI agents
+  - Uses GitHub Issues and Git worktrees for parallel agent execution
+  - Shell-driven; coordinates work across multiple Claude Code sessions
+
+- [wshobson/commands](https://github.com/wshobson/commands) ![Stars](https://img.shields.io/github/stars/wshobson/commands?style=flat-square)
+  - Production-ready slash commands for Claude Code
+  - Companion to wshobson/agents already listed
+  - Maintained by the same author behind 112 specialized agents
+
 ### Specialized Agents
 
 - [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) ![Stars](https://img.shields.io/github/stars/VoltAgent/awesome-claude-code-subagents?style=flat-square)
@@ -250,6 +355,21 @@ Skills focused on software development, code quality, and engineering workflows.
   - Multi-agent orchestration capabilities
   - Automatic task delegation
 
+- [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) ![Stars](https://img.shields.io/github/stars/Jeffallan/claude-skills?style=flat-square)
+  - 66 specialized skills for full-stack developers
+  - Turns Claude Code into a domain-aware pair programmer
+  - Python-driven; covers frontend, backend, data, and ops
+
+- [Orchestra-Research/AI-Research-SKILLs](https://github.com/Orchestra-Research/AI-Research-SKILLs) ![Stars](https://img.shields.io/github/stars/Orchestra-Research/AI-Research-SKILLs?style=flat-square)
+  - Open-source library of AI research and engineering skills
+  - Vendor-neutral: works with Claude Code, Codex, and Gemini CLI
+  - LaTeX-driven docs; built for research-oriented teams
+
+- [revfactory/harness](https://github.com/revfactory/harness) ![Stars](https://img.shields.io/github/stars/revfactory/harness?style=flat-square)
+  - Meta-skill that designs domain-specific agent teams
+  - Generates specialized agents and the skills they use
+  - HTML-based interface for team composition
+
 ### Framework-Specific
 
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) ![Stars](https://img.shields.io/github/stars/nextlevelbuilder/ui-ux-pro-max-skill?style=flat-square)
@@ -263,6 +383,21 @@ Skills focused on software development, code quality, and engineering workflows.
   - Semantic navigation using accessibility APIs
   - 96% token reduction vs raw tools
   - CI/CD ready with JSON output
+
+- [IvanMurzak/Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) ![Stars](https://img.shields.io/github/stars/IvanMurzak/Unity-MCP?style=flat-square)
+  - AI skills, MCP tools, and CLI for the Unity engine
+  - Full AI develop-and-test loop with efficient token usage
+  - C# implementation; quick CLI-based setup
+
+- [htdt/godogen](https://github.com/htdt/godogen) ![Stars](https://img.shields.io/github/stars/htdt/godogen?style=flat-square)
+  - Autonomous game development for Godot and Bevy
+  - Designed to run with Claude Code and Codex
+  - Python-driven; assists across engine, gameplay, and asset workflows
+
+- [coder/claudecode.nvim](https://github.com/coder/claudecode.nvim) ![Stars](https://img.shields.io/github/stars/coder/claudecode.nvim?style=flat-square)
+  - Claude Code Neovim IDE extension
+  - Embeds Claude Code into the Neovim workflow
+  - Lua-based; maintained by Coder
 
 ---
 
@@ -287,6 +422,31 @@ Orchestrate multiple Claude agents to work together on complex tasks.
   - Agent-agnostic parallel orchestrator
   - Git worktrees for isolated environments
   - CI auto-fix and review routing
+
+- [nyldn/claude-octopus](https://github.com/nyldn/claude-octopus) ![Stars](https://img.shields.io/github/stars/nyldn/claude-octopus?style=flat-square)
+  - Surface AI blindspots by running up to 8 AI models on every task
+  - Targets research, design, and coding workflows
+  - Shell-based orchestration layer
+
+- [RunMaestro/Maestro](https://github.com/RunMaestro/Maestro) ![Stars](https://img.shields.io/github/stars/RunMaestro/Maestro?style=flat-square)
+  - Agent orchestration command center
+  - Coordinates multi-agent runs across coding tasks
+  - TypeScript-driven; designed for fleet-scale agent operations
+
+- [stellarlinkco/myclaude](https://github.com/stellarlinkco/myclaude) ![Stars](https://img.shields.io/github/stars/stellarlinkco/myclaude?style=flat-square)
+  - Multi-agent orchestration workflow across Claude Code, Codex, Gemini, and OpenCode
+  - Go-based runtime distributed as a single binary
+  - Targets cross-agent collaboration on the same task
+
+- [generalaction/emdash](https://github.com/generalaction/emdash) ![Stars](https://img.shields.io/github/stars/generalaction/emdash?style=flat-square)
+  - Open-source agentic development environment (Y Combinator W26)
+  - Runs multiple coding agents in parallel across any provider
+  - TypeScript-driven
+
+- [21st-dev/1code](https://github.com/21st-dev/1code) ![Stars](https://img.shields.io/github/stars/21st-dev/1code?style=flat-square)
+  - Orchestration layer for coding agents including Claude Code and Codex
+  - One prompt can drive multiple downstream agents
+  - TypeScript-driven
 
 ### Parallel Processing
 
@@ -327,6 +487,30 @@ Orchestrate multiple Claude agents to work together on complex tasks.
   - Minimal token overhead and async messaging
   - Every interaction visible and controllable
 
+- [mikeyobrien/ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) ![Stars](https://img.shields.io/github/stars/mikeyobrien/ralph-orchestrator?style=flat-square)
+  - Improved implementation of the Ralph Wiggum technique for autonomous AI agents
+  - Rust-based runtime for managing long-running agent loops
+  - Built for fleet-style autonomous coding
+
+- [michaelshimeles/ralphy](https://github.com/michaelshimeles/ralphy) ![Stars](https://img.shields.io/github/stars/michaelshimeles/ralphy?style=flat-square)
+  - Bash-style Ralph Wiggum setup that runs agents in a loop
+  - Supports Claude Code, Codex, OpenCode, Cursor agent, Qwen, and Droid
+  - TypeScript implementation; lightweight harness
+
+- [subsy/ralph-tui](https://github.com/subsy/ralph-tui) ![Stars](https://img.shields.io/github/stars/subsy/ralph-tui?style=flat-square)
+  - Terminal UI on top of the Ralph autonomous-loop technique
+  - TypeScript-driven; provides visibility into iteration cycles
+
+- [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad) ![Stars](https://img.shields.io/github/stars/smtg-ai/claude-squad?style=flat-square)
+  - Manage multiple AI terminal agents like Claude Code, Codex, OpenCode, and Amp
+  - Go-based runner with per-agent session control
+  - Built for keeping several agents alive in parallel
+
+- [SeemSeam/claude_codex_bridge](https://github.com/SeemSeam/claude_codex_bridge) ![Stars](https://img.shields.io/github/stars/SeemSeam/claude_codex_bridge?style=flat-square)
+  - Visible multi-agent CLI teams for Claude, Codex, Gemini, OpenCode, and Droid
+  - Project memory plus tmux-based supervision
+  - Python-driven runtime
+
 ---
 
 ## Security & Compliance
@@ -339,6 +523,36 @@ Professional-grade security skills for vulnerability detection, code auditing, a
   - Secure environment variable management
   - Ensures secrets never appear in sessions, terminals, logs, or git
   - Production-ready secret handling
+
+- [trailofbits/skills](https://github.com/trailofbits/skills) ![Stars](https://img.shields.io/github/stars/trailofbits/skills?style=flat-square)
+  - Trail of Bits Claude Code skills for security research and audit work
+  - Vulnerability detection patterns from real engagement experience
+  - Python-driven
+
+- [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) ![Stars](https://img.shields.io/github/stars/mukul975/Anthropic-Cybersecurity-Skills?style=flat-square)
+  - 754 structured cybersecurity skills for AI agents
+  - Mapped to MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, and NIST AI RMF
+  - Python-driven; large-scale skill bundle
+
+- [vercel-labs/deepsec](https://github.com/vercel-labs/deepsec) ![Stars](https://img.shields.io/github/stars/vercel-labs/deepsec?style=flat-square)
+  - Security harness for finding vulnerabilities using coding agents
+  - TypeScript-based; integrates with the agent loop
+  - Maintained by Vercel Labs
+
+- [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) ![Stars](https://img.shields.io/github/stars/SimoneAvogadro/android-reverse-engineering-skill?style=flat-square)
+  - Claude Code skill for Android application reverse engineering
+  - Shell-driven tooling around standard RE workflows
+  - Useful for security researchers and CTF teams
+
+- [gadievron/raptor](https://github.com/gadievron/raptor) ![Stars](https://img.shields.io/github/stars/gadievron/raptor?style=flat-square)
+  - Turns Claude Code into a general-purpose offensive and defensive security agent
+  - Uses `CLAUDE.md`, sub-agents, and rules for opinionated workflows
+  - Python-driven
+
+- [LoRexxar/Kunlun-M](https://github.com/LoRexxar/Kunlun-M) ![Stars](https://img.shields.io/github/stars/LoRexxar/Kunlun-M?style=flat-square)
+  - Fully open-source static white-box scanner for PHP and JavaScript
+  - Semantic scanning combined with AI Agent integration (OpenClaw and Claude Code)
+  - Python-driven; useful for application-security teams
 
 ### Compliance & Auditing
 
@@ -387,6 +601,46 @@ Skills for marketing professionals, content creators, and growth teams.
   - 34 source parsers — CSV, PDF, DOCX, JSON/JSONL, log, GPX/KML, WhatsApp/WeChat/Slack/Discord/Telegram, Amazon orders, Kindle highlights, Spotify, Apple Health, LinkedIn, Google Photos Takeout, vCard, Venmo/PayPal, browser history, …
   - Self-contained — inline CSS/JS, no CDN, works offline; [22-demo live gallery](https://clockless-org.github.io/html-anything/examples/)
   - Cross-agent — Claude Code, Codex, Cursor, Cline, Windsurf via `npx skills add clockless-org/html-anything`
+
+- [AgriciDaniel/claude-ads](https://github.com/AgriciDaniel/claude-ads) ![Stars](https://img.shields.io/github/stars/AgriciDaniel/claude-ads?style=flat-square)
+  - Paid advertising audit and optimization skill for Claude Code
+  - 250+ checks across Google, Meta, YouTube, LinkedIn, and TikTok ads
+  - Python-driven
+
+- [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) ![Stars](https://img.shields.io/github/stars/AgriciDaniel/claude-seo?style=flat-square)
+  - Universal SEO skill for Claude Code
+  - 25 sub-skills plus 18 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, backlinks, and local SEO
+  - Python-driven
+
+- [zubair-trabzada/geo-seo-claude](https://github.com/zubair-trabzada/geo-seo-claude) ![Stars](https://img.shields.io/github/stars/zubair-trabzada/geo-seo-claude?style=flat-square)
+  - GEO-first SEO skill for Claude Code
+  - Citability scoring, AI crawler analysis, and brand-mention tracking
+  - Python-driven
+
+- [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) ![Stars](https://img.shields.io/github/stars/op7418/guizang-ppt-skill?style=flat-square)
+  - Agent skill for generating polished HTML slide decks
+  - Editorial-magazine and Swiss layouts with social-cover variants
+  - Image prompts and WebGL/low-poly visual options
+
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) ![Stars](https://img.shields.io/github/stars/nexu-io/open-design?style=flat-square)
+  - Local-first, open-source alternative to Anthropic's Claude Design
+  - 19 skills with 71 brand-grade design systems
+  - Generates web, desktop, and mobile prototypes; BYOK
+
+- [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) ![Stars](https://img.shields.io/github/stars/alchaincyf/huashu-design?style=flat-square)
+  - HTML-native design skill for Claude Code
+  - High-fidelity prototypes, slide decks, and animation with MP4 export
+  - 20 design philosophies and a 5-axis review; agent-agnostic
+
+- [ZSeven-W/openpencil](https://github.com/ZSeven-W/openpencil) ![Stars](https://img.shields.io/github/stars/ZSeven-W/openpencil?style=flat-square)
+  - Open-source AI-native vector design tool
+  - First to feature concurrent agent teams for design-as-code
+  - TypeScript-driven
+
+- [yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) ![Stars](https://img.shields.io/github/stars/yizhiyanhua-ai/fireworks-tech-graph?style=flat-square)
+  - Generate production-quality SVG and PNG technical diagrams from natural language
+  - 7 styles, UML support, and AI/Agent workflow patterns
+  - Python-driven
 
 ---
 
@@ -459,6 +713,51 @@ Specialized skills for specific industries and use cases.
   - Targets Claude Code and Claude Skills runtimes
   - Maintained by K-Dense AI; MIT licensed
 
+- [FreedomIntelligence/OpenClaw-Medical-Skills](https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills) ![Stars](https://img.shields.io/github/stars/FreedomIntelligence/OpenClaw-Medical-Skills?style=flat-square)
+  - Open-source medical AI skills library for OpenClaw
+  - Skills tuned for clinical, research, and pharma workflows
+  - Python-driven
+
+- [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) ![Stars](https://img.shields.io/github/stars/Imbad0202/academic-research-skills?style=flat-square)
+  - Academic research skills for Claude Code
+  - Research, write, review, revise, finalize pipeline
+  - Python-driven
+
+- [Master-cai/Research-Paper-Writing-Skills](https://github.com/Master-cai/Research-Paper-Writing-Skills) ![Stars](https://img.shields.io/github/stars/Master-cai/Research-Paper-Writing-Skills?style=flat-square)
+  - Skill package for ML, CV, and NLP paper writing
+  - Adapted from Prof. Peng Sida's open notes
+  - Works with Codex, Claude Code, and Gemini CLI
+
+- [Galaxy-Dawn/claude-scholar](https://github.com/Galaxy-Dawn/claude-scholar) ![Stars](https://img.shields.io/github/stars/Galaxy-Dawn/claude-scholar?style=flat-square)
+  - Semi-automated research assistant for academic and software work
+  - Supports Claude Code, OpenCode, and Codex CLI
+  - Python-driven
+
+- [SamurAIGPT/Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills) ![Stars](https://img.shields.io/github/stars/SamurAIGPT/Generative-Media-Skills?style=flat-square)
+  - Multi-modal generative media skills for AI agents
+  - High-quality image, video, and audio generation
+  - Works with Claude Code, Cursor, and Gemini CLI
+
+- [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) ![Stars](https://img.shields.io/github/stars/alchaincyf/nuwa-skill?style=flat-square)
+  - Distill anyone's thinking — mental models, decision heuristics, and expression DNA
+  - Python-driven Claude skill
+  - English/Chinese bilingual
+
+- [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh) ![Stars](https://img.shields.io/github/stars/op7418/Humanizer-zh?style=flat-square)
+  - Chinese localization of the Humanizer Claude Code skill
+  - Removes AI-generated signals from Chinese text
+  - Companion to blader/humanizer for English
+
+- [alchaincyf/darwin-skill](https://github.com/alchaincyf/darwin-skill) ![Stars](https://img.shields.io/github/stars/alchaincyf/darwin-skill?style=flat-square)
+  - Skill that lets your skills evolve through evaluate, improve, test, and keep-or-rollback cycles
+  - Autoresearch-inspired iteration loop
+  - HTML-driven; Chinese-language project
+
+- [nidhinjs/prompt-master](https://github.com/nidhinjs/prompt-master) ![Stars](https://img.shields.io/github/stars/nidhinjs/prompt-master?style=flat-square)
+  - Claude skill that writes accurate prompts for any AI tool
+  - Aims to keep context and memory across iterations
+  - Token-conscious by design
+
 ---
 
 ## Productivity Tools
@@ -507,6 +806,16 @@ Utilities and tools to enhance your Claude workflow.
   - Local, open-source macOS app for listening to Claude Code and Codex agents as they work
   - Global Mix across active sessions, blocker alerts, and BYOK Gemini/OpenAI narration
 
+- [automazeio/vibeproxy](https://github.com/automazeio/vibeproxy) ![Stars](https://img.shields.io/github/stars/automazeio/vibeproxy?style=flat-square)
+  - Native macOS menu-bar app to use Claude Code and ChatGPT subscriptions with AI coding tools
+  - Skips the need for API keys
+  - Swift implementation
+
+- [ValueCell-ai/ClawX](https://github.com/ValueCell-ai/ClawX) ![Stars](https://img.shields.io/github/stars/ValueCell-ai/ClawX?style=flat-square)
+  - Desktop app providing a graphical interface for OpenClaw AI agents
+  - Turns CLI-based AI orchestration into a desktop experience
+  - TypeScript-driven Electron build
+
 ### Agent Harnesses & Meta-Tools
 
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) ![Stars](https://img.shields.io/github/stars/code-yeongyu/oh-my-openagent?style=flat-square)
@@ -520,6 +829,26 @@ Utilities and tools to enhance your Claude workflow.
   - Spec-driven development approach
   - Created by TÂCHES team
   - Focus on productivity and getting things done
+
+- [intellectronica/ruler](https://github.com/intellectronica/ruler) ![Stars](https://img.shields.io/github/stars/intellectronica/ruler?style=flat-square)
+  - Applies the same rules to every coding agent on your machine
+  - One rule set propagates to Claude Code, Cursor, Codex, and others
+  - TypeScript-driven
+
+- [notlikeDev/CCPlugins](https://github.com/notlikeDev/CCPlugins) ![Stars](https://img.shields.io/github/stars/notlikeDev/CCPlugins?style=flat-square)
+  - Claude Code framework focused on saving time on routine prompts
+  - Built for developers tired of writing "please act like a senior engineer" every session
+  - Python-driven
+
+- [tailcallhq/forgecode](https://github.com/tailcallhq/forgecode) ![Stars](https://img.shields.io/github/stars/tailcallhq/forgecode?style=flat-square)
+  - AI-enabled pair programmer with broad model support
+  - Works with Claude, GPT, Grok, DeepSeek, Gemini, and 300+ more models
+  - Rust-based binary
+
+- [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) ![Stars](https://img.shields.io/github/stars/max-sixty/worktrunk?style=flat-square)
+  - CLI for managing Git worktrees in parallel AI-agent workflows
+  - Rust-based binary
+  - Reduces friction when running multiple coding agents on the same repo
 
 ### Memory & Context Management
 
@@ -555,6 +884,41 @@ Utilities and tools to enhance your Claude workflow.
   - Ships hooks, skills, and an MCP server for 15+ platforms (Claude Code, Codex, Cursor, Kiro, Zed, OpenClaw)
   - Project site at context-mode.com
 
+- [gastownhall/beads](https://github.com/gastownhall/beads) ![Stars](https://img.shields.io/github/stars/gastownhall/beads?style=flat-square)
+  - Memory upgrade for coding agents
+  - Persists context across sessions for Claude Code and other agents
+  - Go-based binary
+
+- [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) ![Stars](https://img.shields.io/github/stars/NevaMind-AI/memU?style=flat-square)
+  - Memory layer for 24/7 proactive agents like OpenClaw
+  - Python-driven graph-based memory store
+  - Targets long-running agent workflows
+
+- [SamurAIGPT/llm-wiki-agent](https://github.com/SamurAIGPT/llm-wiki-agent) ![Stars](https://img.shields.io/github/stars/SamurAIGPT/llm-wiki-agent?style=flat-square)
+  - Personal knowledge base that builds and maintains itself
+  - Drop in sources and Claude (or Codex/Gemini) extracts and links knowledge
+  - Python-driven
+
+- [parcadei/Continuous-Claude-v3](https://github.com/parcadei/Continuous-Claude-v3) ![Stars](https://img.shields.io/github/stars/parcadei/Continuous-Claude-v3?style=flat-square)
+  - Context management for Claude Code via hooks
+  - Maintains state via ledgers and handoffs across sessions
+  - MCP execution without context pollution
+
+- [breferrari/obsidian-mind](https://github.com/breferrari/obsidian-mind) ![Stars](https://img.shields.io/github/stars/breferrari/obsidian-mind?style=flat-square)
+  - Obsidian vault that gives AI coding agents persistent memory
+  - Designed for Claude Code, Codex CLI, and Gemini CLI
+  - TypeScript-driven
+
+- [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) ![Stars](https://img.shields.io/github/stars/DeusData/codebase-memory-mcp?style=flat-square)
+  - High-performance code-intelligence MCP server
+  - Indexes codebases into a persistent knowledge graph in milliseconds
+  - C implementation for speed
+
+- [agenticnotetaking/arscontexta](https://github.com/agenticnotetaking/arscontexta) ![Stars](https://img.shields.io/github/stars/agenticnotetaking/arscontexta?style=flat-square)
+  - Claude Code plugin that builds individualized knowledge systems from conversation
+  - You describe how you think and work; it captures and reuses that context
+  - Shell-driven
+
 ### MCP Servers & Integrations
 
 - [oraios/serena](https://github.com/oraios/serena) ![Stars](https://img.shields.io/github/stars/oraios/serena?style=flat-square)
@@ -589,6 +953,42 @@ Utilities and tools to enhance your Claude workflow.
   - Built-in AI-powered dashboard with 250+ CNCF project integrations
   - Works with Claude Code, Claude Desktop, and any MCP-compatible client
   - Live demo: https://console.kubestellar.io
+
+- [grab/cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp) ![Stars](https://img.shields.io/github/stars/grab/cursor-talk-to-figma-mcp?style=flat-square)
+  - MCP integration that lets AI agents talk to Figma
+  - Supports Cursor and Claude Code for reading and editing designs
+  - JavaScript-based; published by Grab's engineering team
+
+- [atilaahmettaner/tradingview-mcp](https://github.com/atilaahmettaner/tradingview-mcp) ![Stars](https://img.shields.io/github/stars/atilaahmettaner/tradingview-mcp?style=flat-square)
+  - MCP for real-time crypto and stock screening
+  - Advanced technical indicators and Bollinger-band intelligence
+  - Python implementation; works as a native Claude Code MCP
+
+- [PleasePrompto/notebooklm-mcp](https://github.com/PleasePrompto/notebooklm-mcp) ![Stars](https://img.shields.io/github/stars/PleasePrompto/notebooklm-mcp?style=flat-square)
+  - MCP server for Google NotebookLM
+  - Lets agents (Claude Code, Codex) research documentation with grounded citations
+  - TypeScript-driven
+
+- [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) ![Stars](https://img.shields.io/github/stars/google-labs-code/stitch-skills?style=flat-square)
+  - Library of agent skills designed to work with the Stitch MCP server
+  - Follows the open Agent Skills standard
+  - TypeScript-driven; published by Google Labs
+
+- [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) ![Stars](https://img.shields.io/github/stars/chenhg5/cc-connect?style=flat-square)
+  - Bridges local AI coding agents to messaging platforms
+  - Supports Claude Code, Cursor, Gemini CLI, and Codex
+  - Targets Feishu/Lark, DingTalk, Slack, Telegram, and Discord
+  - Go-based runtime
+
+- [op7418/Claude-to-IM-skill](https://github.com/op7418/Claude-to-IM-skill) ![Stars](https://img.shields.io/github/stars/op7418/Claude-to-IM-skill?style=flat-square)
+  - Bridges Claude Code and Codex to IM platforms
+  - Chat with AI coding agents from Telegram, Discord, or Feishu/Lark
+  - TypeScript implementation
+
+- [eze-is/web-access](https://github.com/eze-is/web-access) ![Stars](https://img.shields.io/github/stars/eze-is/web-access?style=flat-square)
+  - Adds full internet access to Claude Code via a layered skill
+  - Three-tier channel scheduling, browser CDP, and parallel divide-and-conquer
+  - JavaScript-driven
 
 ### API & Integration Tools
 
@@ -633,6 +1033,10 @@ Utilities and tools to enhance your Claude workflow.
   - Works with Claude Code, Codex, Gemini CLI, and Cursor via PostToolUse hooks
   - Five intensity levels plus a lint-only audit mode
 
+- [UfoMiao/zcf](https://github.com/UfoMiao/zcf) ![Stars](https://img.shields.io/github/stars/UfoMiao/zcf?style=flat-square)
+  - Zero-Config Code Flow for Claude Code and Codex
+  - TypeScript-driven configuration wrapper
+
 ### Autonomous Development
 
 - [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) ![Stars](https://img.shields.io/github/stars/frankbria/ralph-claude-code?style=flat-square)
@@ -641,6 +1045,11 @@ Utilities and tools to enhance your Claude workflow.
   - Built-in safeguards to prevent infinite loops
   - Rate limiting and circuit breaker protection
   - Global command available in any directory
+
+- [evalstate/fast-agent](https://github.com/evalstate/fast-agent) ![Stars](https://img.shields.io/github/stars/evalstate/fast-agent?style=flat-square)
+  - Build and evaluate agents with model, Skills, MCP, and ACP support
+  - Python-based research-grade harness
+  - Designed for fast agent-iteration cycles
 
 ### Monitoring & Observability
 
@@ -688,6 +1097,43 @@ Utilities and tools to enhance your Claude workflow.
   - Claude Code plugin that surfaces context usage, active tools, running agents, and todo progress
   - Statusline-style HUD that updates while the agent works
   - TypeScript implementation; MIT licensed
+
+- [sirmalloc/ccstatusline](https://github.com/sirmalloc/ccstatusline) ![Stars](https://img.shields.io/github/stars/sirmalloc/ccstatusline?style=flat-square)
+  - Customizable statusline for the Claude Code CLI
+  - Powerline support, themes, and rich layouts
+  - TypeScript-driven
+
+- [getagentseal/codeburn](https://github.com/getagentseal/codeburn) ![Stars](https://img.shields.io/github/stars/getagentseal/codeburn?style=flat-square)
+  - Interactive TUI dashboard for token-cost observability
+  - Shows where Claude Code, Codex, and Cursor tokens go
+  - TypeScript-driven
+
+- [hamed-elfayome/Claude-Usage-Tracker](https://github.com/hamed-elfayome/Claude-Usage-Tracker) ![Stars](https://img.shields.io/github/stars/hamed-elfayome/Claude-Usage-Tracker?style=flat-square)
+  - Native macOS menu-bar app for tracking Claude AI usage limits in real time
+  - Built with Swift and SwiftUI
+
+- [matt1398/claude-devtools](https://github.com/matt1398/claude-devtools) ![Stars](https://img.shields.io/github/stars/matt1398/claude-devtools?style=flat-square)
+  - DevTools-style inspector for Claude Code
+  - Session logs, tool calls, token usage, sub-agents, and context window
+  - TypeScript-driven
+
+- [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) ![Stars](https://img.shields.io/github/stars/junhoyeo/tokscale?style=flat-square)
+  - CLI for tracking token usage across OpenCode, Claude Code, OpenClaw, Codex, Gemini, and Cursor
+  - Single Rust binary
+
+- [backnotprop/plannotator](https://github.com/backnotprop/plannotator) ![Stars](https://img.shields.io/github/stars/backnotprop/plannotator?style=flat-square)
+  - Annotate and review coding-agent plans and diffs visually
+  - Share with your team; send feedback to agents with one click
+  - TypeScript-driven
+
+- [PeonPing/peon-ping](https://github.com/PeonPing/peon-ping) ![Stars](https://img.shields.io/github/stars/PeonPing/peon-ping?style=flat-square)
+  - Warcraft III Peon voice notifications for Claude Code, Codex, and other agents
+  - Shell-driven; stops you from babysitting the terminal
+
+- [ZeframLou/call-me](https://github.com/ZeframLou/call-me) ![Stars](https://img.shields.io/github/stars/ZeframLou/call-me?style=flat-square)
+  - Minimal plugin that lets Claude Code call you on the phone
+  - TypeScript-based
+  - Useful for long-running autonomous runs
 
 ### Configuration & Templates
 
@@ -807,6 +1253,35 @@ Resources for mastering Claude skills and understanding best practices.
   - Ships copy-paste templates for immediate use
   - Hosted at luongnv.com/claude-howto; MIT licensed
 
+- [Windy3f3f3f3f/how-claude-code-works](https://github.com/Windy3f3f3f3f/how-claude-code-works) ![Stars](https://img.shields.io/github/stars/Windy3f3f3f3f/how-claude-code-works?style=flat-square)
+  - Deep dive into Claude Code internals
+  - Covers architecture, the agent loop, and context engineering
+  - Bilingual English/Chinese write-up
+
+- [lintsinghua/claude-code-book](https://github.com/lintsinghua/claude-code-book) ![Stars](https://img.shields.io/github/stars/lintsinghua/claude-code-book?style=flat-square)
+  - Long-form analysis of Claude Code's agent-harness skeleton
+  - In-depth architectural breakdown, structured as a book
+  - Chinese-language
+
+- [KimYx0207/AI-Coding-Guide-Zh](https://github.com/KimYx0207/AI-Coding-Guide-Zh) ![Stars](https://img.shields.io/github/stars/KimYx0207/AI-Coding-Guide-Zh?style=flat-square)
+  - Chinese tutorial covering Claude Code, OpenClaw, and Codex
+  - 36 complete tutorials, three learning paths from beginner to enterprise
+  - Markdown-only bundle
+
+- [jamesmurdza/awesome-ai-devtools](https://github.com/jamesmurdza/awesome-ai-devtools) ![Stars](https://img.shields.io/github/stars/jamesmurdza/awesome-ai-devtools?style=flat-square)
+  - Curated list of AI-powered developer tools
+  - Useful adjacent reading when shopping for Claude Code integrations
+
+- [Meirtz/Awesome-Context-Engineering](https://github.com/Meirtz/Awesome-Context-Engineering) ![Stars](https://img.shields.io/github/stars/Meirtz/Awesome-Context-Engineering?style=flat-square)
+  - Comprehensive survey on context engineering
+  - From prompt engineering to production-grade AI systems
+  - Hundreds of papers and frameworks referenced
+
+- [KhazP/vibe-coding-prompt-template](https://github.com/KhazP/vibe-coding-prompt-template) ![Stars](https://img.shields.io/github/stars/KhazP/vibe-coding-prompt-template?style=flat-square)
+  - Templates and workflow for generating PRDs, tech designs, and MVPs
+  - Designed for use with AI IDEs and Claude Code
+  - Markdown-only bundle
+
 ---
 
 ## Skill Development
@@ -836,6 +1311,26 @@ Tools and frameworks for creating your own Claude skills.
   - Automatic conflict detection between overlapping skill definitions
   - AST parsing, OCR for PDFs, and web scraping pipelines
   - MIT licensed; hosted version at skillseekersweb.com
+
+- [refly-ai/refly](https://github.com/refly-ai/refly) ![Stars](https://img.shields.io/github/stars/refly-ai/refly?style=flat-square)
+  - Open-source agent-skills builder
+  - Define skills by workflow and run on Claude Code, Cursor, Codex, and others
+  - TypeScript-driven
+
+- [microsoft/apm](https://github.com/microsoft/apm) ![Stars](https://img.shields.io/github/stars/microsoft/apm?style=flat-square)
+  - Microsoft's Agent Package Manager
+  - Distributes agent skills, MCP servers, and custom agents
+  - Python-driven
+
+- [tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills) ![Stars](https://img.shields.io/github/stars/tech-leads-club/agent-skills?style=flat-square)
+  - Secure, validated skill registry for professional AI coding agents
+  - Extends Antigravity, Claude Code, Cursor, and Copilot
+  - TypeScript-driven
+
+- [gotalab/cc-sdd](https://github.com/gotalab/cc-sdd) ![Stars](https://img.shields.io/github/stars/gotalab/cc-sdd?style=flat-square)
+  - Spec-driven development harness for Claude Code
+  - Turns approved specs into long-running autonomous implementation
+  - TypeScript-driven, minimal and adaptable
 
 ---
 
