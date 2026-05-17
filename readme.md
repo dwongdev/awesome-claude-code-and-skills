@@ -852,6 +852,12 @@ Utilities and tools to enhance your Claude workflow.
 
 ### Memory & Context Management
 
+- [sunnja69/akephalos](https://github.com/sunnja69/akephalos) ![Stars](https://img.shields.io/github/stars/sunnja69/akephalos?style=flat-square)
+  - Local-first, markdown-first `.akephalos` passport for portable agent preferences, tool notes, rules, project context, and durable memories
+  - Works across Claude Code, Codex, Cursor, Hermes, OpenClaw, MCP clients, and machines
+  - Sync is via plain files/Git; includes a local MCP stdio server
+  - Early `v0.1.0` prerelease
+
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) ![Stars](https://img.shields.io/github/stars/thedotmack/claude-mem?style=flat-square)
   - Automatic session capture and AI compression
   - Long-term memory with RAG integration
