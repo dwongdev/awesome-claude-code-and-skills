@@ -511,6 +511,12 @@ Orchestrate multiple Claude agents to work together on complex tasks.
   - Project memory plus tmux-based supervision
   - Python-driven runtime
 
+- [avelikiy/great_cto](https://github.com/avelikiy/great_cto) ![Stars](https://img.shields.io/github/stars/avelikiy/great_cto?style=flat-square)
+  - Multi-agent SDLC plugin for Claude Code
+  - 34 specialist reviewer agents across 25 archetypes (fintech, voice-AI, clinical, robotics, and more)
+  - 10 compliance packs auto-attach by archetype (PCI, HIPAA, FDA SaMD, NYC AEDT, GDPR, etc.)
+  - Two human gates per feature plus memory feedback loop that persists decisions across sessions
+
 ---
 
 ## Security & Compliance
