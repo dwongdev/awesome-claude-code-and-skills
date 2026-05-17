@@ -109,6 +109,11 @@ These repositories offer extensive collections of skills across multiple domains
   - 140+ curated resources for Chinese-speaking developers
   - Useful for discovering practical skills by category
 
+- [Remote OpenClaw Claude Skills](https://www.remoteopenclaw.com/skills/claude)
+  - Claude-focused skills directory with reviewed GitHub listings, plugins, and agents
+  - Includes adjacent Codex, Hermes, and OpenClaw hubs for cross-agent comparison
+  - Useful when you want a Claude-specific entry point without losing the broader ecosystem view
+
 - [garrytan/gstack](https://github.com/garrytan/gstack) ![Stars](https://img.shields.io/github/stars/garrytan/gstack?style=flat-square)
   - Garry Tan's exact Claude Code setup
   - 6 opinionated tools for startup leadership
