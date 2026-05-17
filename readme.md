@@ -448,6 +448,12 @@ Orchestrate multiple Claude agents to work together on complex tasks.
   - One prompt can drive multiple downstream agents
   - TypeScript-driven
 
+- [yehudalevy-collab/polis-protocol](https://github.com/yehudalevy-collab/polis-protocol) ![Stars](https://img.shields.io/github/stars/yehudalevy-collab/polis-protocol?style=flat-square)
+  - Markdown coordination protocol for multi-vendor agent teams
+  - Signed capability cards, ε-greedy bandit routing that learns from settled contracts
+  - Chavruta paired review for high-stakes work; self-amending constitution
+  - Vendor-agnostic — works across Claude Code, Codex, Gemini CLI
+
 ### Parallel Processing
 
 - [Dicklesworthstone/claude_code_agent_farm](https://github.com/Dicklesworthstone/claude_code_agent_farm) ![Stars](https://img.shields.io/github/stars/Dicklesworthstone/claude_code_agent_farm?style=flat-square)
