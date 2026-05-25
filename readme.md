@@ -251,6 +251,14 @@ Skills focused on software development, code quality, and engineering workflows.
   - Codebase architecture guidance
   - Git guardrails and issue triage
 
+- [YoungApple/growth-retrospective-skill](https://github.com/YoungApple/growth-retrospective-skill) ![Stars](https://img.shields.io/github/stars/YoungApple/growth-retrospective-skill?style=flat-square)
+  - Personal growth retrospectives ranked by decision-velocity signals from git + chat history
+  - Tracks 5 categories: domain knowledge, human skills, work habits, meta-cognition, productivity rhythm
+  - Graduation markers required on every Tier 1/2 item so items leave the list instead of piling up
+  - Step 0 Action Audit blocks new scans if prior level-up actions are untouched (anti-busywork forcing function)
+  - Cross-agent: same SKILL.md works in Claude Code, OpenAI Codex CLI, and Google Antigravity
+  - Try in 5 seconds: `git clone … && bash examples/demo-fixture/demo.sh` (no LLM needed)
+
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) ![Stars](https://img.shields.io/github/stars/affaan-m/everything-claude-code?style=flat-square)
   - Agent harness performance optimization
   - Research-first development approach
