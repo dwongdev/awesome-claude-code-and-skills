@@ -780,6 +780,12 @@ Specialized skills for specific industries and use cases.
   - Aims to keep context and memory across iterations
   - Token-conscious by design
 
+- [longbridge/skills](https://github.com/longbridge/skills) ![Stars](https://img.shields.io/github/stars/longbridge/skills?style=flat-square)
+  - 125+ agent skills for Longbridge Securities — real-time quotes, charts, fundamentals, portfolio analytics, and valuation
+  - Covers HK, US, A-share (SH/SZ), and Singapore markets
+  - Trilingual support: Simplified Chinese, Traditional Chinese, and English
+  - Includes options (US/HK), warrants, DeFi yields, ETF analysis, and advanced portfolio tools
+
 ---
 
 ## Productivity Tools
