@@ -625,6 +625,12 @@ Skills for marketing professionals, content creators, and growth teams.
   - Beautiful, educational content generation
   - Perfect for developer education and onboarding
 
+- [ndesv21/socialclaw](https://github.com/ndesv21/socialclaw) ![Stars](https://img.shields.io/github/stars/ndesv21/socialclaw?style=flat-square)
+  - Schedule and publish social media posts across 13 platforms via SocialClaw
+  - Supports X, LinkedIn (profile + page), Instagram, Facebook Pages, TikTok, YouTube, Reddit, WordPress, Pinterest
+  - One workspace API key (`SC_API_KEY`) for campaigns, media upload, and analytics
+  - Install: `npx skills add ndesv21/socialclaw`
+
 - [clockless-org/html-anything](https://github.com/clockless-org/html-anything) ![Stars](https://img.shields.io/github/stars/clockless-org/html-anything?style=flat-square)
   - Turn any file, folder, URL, or service export into a polished single-file HTML page
   - Auto picks one of 16 design systems (lesson lab, map atlas, timeline story, relationship rhythm, network map, dashboard, document review, terminal evidence, living essay, editorial carousel, paper trail, …)
