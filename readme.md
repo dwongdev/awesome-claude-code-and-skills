@@ -892,6 +892,13 @@ Utilities and tools to enhance your Claude workflow.
   - Rust-based binary
   - Reduces friction when running multiple coding agents on the same repo
 
+- [huangji6693-max/claude-code-dna](https://github.com/huangji6693-max/claude-code-dna) ![Stars](https://img.shields.io/github/stars/huangji6693-max/claude-code-dna?style=flat-square)
+  - Behavioral OS for Claude Code agents distilled from 11 deeply-read libraries (179 skills + 99 agents + Karpathy anti-patterns + memory research)
+  - 8 rule files codifying Karpathy's 4 laws plus 15 operating instincts (verification gate, TDD reflex, root cause before fix)
+  - Three-layer memory architecture inspired by mem0 v3 (ADD-only), langmem (3 types × 2 timings), and Microsoft GraphRAG (community-summary indexing)
+  - Portable Bash/Python tooling: `memory-health.sh`, `memory-search.sh` (BM25-style local retrieval), `skill-spec-audit.sh` (agentskills.io compliance — 168 PASS / 23 WARN / 3 FAIL on 194 community skills), and `dna-doctor.sh` (single-command health check)
+  - Works across Claude Code, Cursor, Codex CLI, Gemini CLI, Aider, and Continue.dev — rules are model-agnostic markdown
+
 ### Memory & Context Management
 
 - [sunnja69/akephalos](https://github.com/sunnja69/akephalos) ![Stars](https://img.shields.io/github/stars/sunnja69/akephalos?style=flat-square)
