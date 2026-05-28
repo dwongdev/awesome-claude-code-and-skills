@@ -712,6 +712,13 @@ Specialized skills for specific industries and use cases.
   - RFM cohorts and prioritized action plan with impact estimates
   - Hybrid Python-backend + Claude-LLM architecture for deterministic KPIs
 
+- [Ericyoung-183/alpha-insights](https://github.com/Ericyoung-183/alpha-insights) ![Stars](https://img.shields.io/github/stars/Ericyoung-183/alpha-insights?style=flat-square)
+  - Business research skill for Claude Code and Codex
+  - Encodes 19 consulting frameworks and 9 thinking methods
+  - Uses evidence grading, source confidence checks, and stage gates to reduce unsupported AI research claims
+  - Generates decision-ready HTML reports with interactive charts
+  - MIT licensed; installable from GitHub
+
 - [Xquik-dev/tweetclaw](https://github.com/Xquik-dev/tweetclaw) ![Stars](https://img.shields.io/github/stars/Xquik-dev/tweetclaw?style=flat-square)
   - OpenClaw plugin and agent skill for X/Twitter automation
   - Search tweets and tweet replies, post tweets and replies, and export followers
