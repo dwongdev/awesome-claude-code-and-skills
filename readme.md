@@ -690,6 +690,13 @@ Specialized skills for specific industries and use cases.
   - Complete coordination system mirroring real studio hierarchy
   - Engine specialists, designers, and production agents
   - Perfect for game development projects
+    
+- [Miscodings/paper-plugin](https://github.com/Miscodings/paper-plugin) ![Stars](https://img.shields.io/github/stars/Miscodings/paper-plugin?style=flat-square)
+  - Complete Minecraft Paper plugin development suite for Claude Code
+  - 1 comprehensive skill + 8 specialized subagents (architect, debugger, reviewer, data, commands, events, performance, publisher)
+  - Enforces modern practices: Adventure API, Display entities, config-driven items/GUIs, lang files, LuckPerms permission trees
+  - MythicMobs, ModelEngine, PlaceholderAPI, WorldGuard, Vault, LuckPerms integrations
+  - Kotlin/Java, Paper 1.21.x, Gradle Kotlin DSL
 
 - [fruitwyatt/puzzlegenio-claude-skill](https://github.com/fruitwyatt/puzzlegenio-claude-skill) ![Stars](https://img.shields.io/github/stars/fruitwyatt/puzzlegenio-claude-skill?style=flat-square)
   - Generate free printable puzzles (crossword, word search, sudoku, jigsaw, bingo, nonogram)
