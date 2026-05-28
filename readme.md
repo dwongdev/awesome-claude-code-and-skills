@@ -259,6 +259,13 @@ Skills focused on software development, code quality, and engineering workflows.
   - Cross-agent: same SKILL.md works in Claude Code, OpenAI Codex CLI, and Google Antigravity
   - Try in 5 seconds: `git clone … && bash examples/demo-fixture/demo.sh` (no LLM needed)
 
+- [ggrigo/align](https://github.com/ggrigo/align) ![Stars](https://img.shields.io/github/stars/ggrigo/align?style=flat-square)
+  - Personal evals trio for Claude Code and Cowork — capture, diagnose, synthesize
+  - `/align` rates each LLM claim in a local HTML form (6-shape canonical: correct / wrong / almost / needs-nuance / can't-verify / skipped); archives corrections as structured markdown
+  - `/diagnose` traces wrong claims back to the stale instruction that caused them — quoted-evidence citations + 0–100 confidence + threshold-80 filtering (read-only)
+  - `/retro` clusters patterns across sessions and opens patch PRs with per-patch human gates
+  - MIT, runs locally, no service. Single-plugin marketplace at `ggrigo/align`; installs via `/plugin marketplace add ggrigo/align`
+
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) ![Stars](https://img.shields.io/github/stars/affaan-m/everything-claude-code?style=flat-square)
   - Agent harness performance optimization
   - Research-first development approach
