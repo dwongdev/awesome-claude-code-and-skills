@@ -562,6 +562,11 @@ n- [GiulioDER/cca-audit](https://github.com/GiulioDER/cca-audit) ![Stars](https:
   - Deduplicates findings, auto-fixes P1+P2, re-verifies tests, architect review gate
   - Three variants: Claude Code, Codex CLI, OpenRouter Python CLI
 
+- [moltenbit/should-i-care](https://github.com/moltenbit/should-i-care) ![Stars](https://img.shields.io/github/stars/moltenbit/should-i-care?style=flat-square)
+  - Single-CVE applicability triage: does this CVE actually affect your environment
+  - Reasons about exploitation conditions against a self-maintained environment profile, every verdict cited to its source
+  - Markdown-driven; built and tested on Claude Code and Codex
+
 - [wrsmith108/varlock-claude-skill](https://github.com/wrsmith108/varlock-claude-skill) ![Stars](https://img.shields.io/github/stars/wrsmith108/varlock-claude-skill?style=flat-square)
   - Secure environment variable management
   - Ensures secrets never appear in sessions, terminals, logs, or git
