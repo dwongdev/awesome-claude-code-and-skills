@@ -933,6 +933,12 @@ Utilities and tools to enhance your Claude workflow.
 
 ### Memory & Context Management
 
+- [caioribeiroclw-pixel/pluribus](https://github.com/caioribeiroclw-pixel/pluribus) ![Stars](https://img.shields.io/github/stars/caioribeiroclw-pixel/pluribus?style=flat-square)
+  - Privacy-safe context receipts for Claude Code, Cursor, Codex, OpenClaw, and MCP/skill workflows
+  - Proves what context crossed agent boundaries without copying private prompts or tool outputs
+  - Includes an npm CLI plus copyable Context Receipts skill recipe and 60-second smoke checks
+  - Focuses on audit evidence, not persistent memory or agent orchestration
+
 - [sunnja69/akephalos](https://github.com/sunnja69/akephalos) ![Stars](https://img.shields.io/github/stars/sunnja69/akephalos?style=flat-square)
   - Local-first, markdown-first `.akephalos` passport for portable agent preferences, tool notes, rules, project context, and durable memories
   - Works across Claude Code, Codex, Cursor, Hermes, OpenClaw, MCP clients, and machines
