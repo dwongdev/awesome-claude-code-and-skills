@@ -1266,6 +1266,14 @@ Utilities and tools to enhance your Claude workflow.
 
 Resources for mastering Claude skills and understanding best practices.
 
+### Learning & Tutoring Skills
+
+- [Li-Evan/Bloom](https://github.com/Li-Evan/Bloom) ![Stars](https://img.shields.io/github/stars/Li-Evan/Bloom?style=flat-square)
+  - One-on-one Socratic tutor skill based on Benjamin Bloom's "2 Sigma" research
+  - Writes a syllabus, then teaches one lesson at a time, adapting each next lesson to your inline written feedback
+  - The opposite of "dump the full answer" — guides you to derive it yourself
+  - Responds in Chinese; skill at `skills/bloom-tutor`
+
 ### Comprehensive Guides
 
 - [FlorianBruniaux/claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide) ![Stars](https://img.shields.io/github/stars/FlorianBruniaux/claude-code-ultimate-guide?style=flat-square)
