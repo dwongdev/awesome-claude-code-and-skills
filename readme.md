@@ -317,45 +317,11 @@ Skills focused on software development, code quality, and engineering workflows.
   - Compatible with Claude Code, Hermes Agent, OpenClaw, Kilocode, Copilot, and Mastra
   - Python-backed and MIT licensed
 
-- [twostraws/SwiftUI-Agent-Skill](https://github.com/twostraws/SwiftUI-Agent-Skill) ![Stars](https://img.shields.io/github/stars/twostraws/SwiftUI-Agent-Skill?style=flat-square)
-  - SwiftUI-focused agent skill for Claude Code, Codex, and other AI tools
-  - Curated by Paul Hudson (Hacking with Swift)
-  - Covers UI patterns, layout primitives, and SwiftUI + Combine idioms
-
-- [tw93/Waza](https://github.com/tw93/Waza) ![Stars](https://img.shields.io/github/stars/tw93/Waza?style=flat-square)
-  - Engineering habits packaged as runnable Claude skills
-  - Shell-driven installer drops skills into your `~/.claude` directory
-  - Focused on day-to-day development workflow ergonomics
-
-- [coleam00/excalidraw-diagram-skill](https://github.com/coleam00/excalidraw-diagram-skill) ![Stars](https://img.shields.io/github/stars/coleam00/excalidraw-diagram-skill?style=flat-square)
-  - Skill for generating Excalidraw diagrams from natural language
-  - Works with Claude Code and any compatible coding agent
-  - Python-based; lightweight, no external services
-
-- [lackeyjb/playwright-skill](https://github.com/lackeyjb/playwright-skill) ![Stars](https://img.shields.io/github/stars/lackeyjb/playwright-skill?style=flat-square)
-  - Claude Code skill for browser automation with Playwright
-  - Model-invoked: Claude autonomously writes and runs Playwright scripts
-  - JavaScript-driven; complements general development workflows
-
-- [uditgoenka/autoresearch](https://github.com/uditgoenka/autoresearch) ![Stars](https://img.shields.io/github/stars/uditgoenka/autoresearch?style=flat-square)
-  - Claude Autoresearch skill for autonomous goal-directed iteration
-  - Modify, test, and reflect loop inspired by Karpathy's autoresearch
-  - Shell-based; runs locally as a Claude Code skill
-
-- [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) ![Stars](https://img.shields.io/github/stars/nicobailon/visual-explainer?style=flat-square)
-  - Agent skill that generates rich HTML pages or slide decks
-  - Targets diagrams, diff reviews, plan audits, data tables, and project recaps
-  - HTML output is self-contained and shareable
-
-- [automazeio/ccpm](https://github.com/automazeio/ccpm) ![Stars](https://img.shields.io/github/stars/automazeio/ccpm?style=flat-square)
-  - Project management skill system for AI agents
-  - Uses GitHub Issues and Git worktrees for parallel agent execution
-  - Shell-driven; coordinates work across multiple Claude Code sessions
-
-- [wshobson/commands](https://github.com/wshobson/commands) ![Stars](https://img.shields.io/github/stars/wshobson/commands?style=flat-square)
-  - Production-ready slash commands for Claude Code
-  - Companion to wshobson/agents already listed
-  - Maintained by the same author behind 112 specialized agents
+- [mturac/pluginpool](https://github.com/mturac/pluginpool) ![Stars](https://img.shields.io/github/stars/mturac/pluginpool?style=flat-square)
+  - Ten focused Claude Code plugins for everyday developer productivity
+  - Includes **commit-narrator**, **pr-storyteller**, **test-gap**, **deps-doctor**, **env-lint**, **secret-guard**, **standup-gen**, **todo-harvest**, **flaky-detector**, **changelog-forge**
+  - 89 hermetic tests across the suite, Python standard library only at runtime
+  - Each plugin is a self-contained repo; install all via marketplace: `/plugin marketplace add mturac/pluginpool`. MIT licensed.
 
 ### Specialized Agents
 
