@@ -615,6 +615,13 @@ Skills for marketing professionals, content creators, and growth teams.
   - One workspace API key (`SC_API_KEY`) for campaigns, media upload, and analytics
   - Install: `npx skills add ndesv21/socialclaw`
 
+- [Get-Maito/newsletter-skills](https://github.com/Get-Maito/newsletter-skills) ![Stars](https://img.shields.io/github/stars/Get-Maito/newsletter-skills?style=flat-square)
+  - Open-source SKILL.md pack for newsletter operators using Claude Code, Codex, Cursor, and compatible agents
+  - Covers local event research, source audits, issue building, sponsor operations, monetization strategy, ROI checks, social repurposing, and launch cadence
+  - Product-agnostic by default, with optional Maito-connected persistence for sources, issues, approvals, analytics, and sponsor history
+  - Instruction-only v0.1.0 pack with no executable scripts or runtime dependencies
+  - Install: `npx skills add Get-Maito/newsletter-skills`
+
 - [clockless-org/html-anything](https://github.com/clockless-org/html-anything) ![Stars](https://img.shields.io/github/stars/clockless-org/html-anything?style=flat-square)
   - Turn any file, folder, URL, or service export into a polished single-file HTML page
   - Auto picks one of 16 design systems (lesson lab, map atlas, timeline story, relationship rhythm, network map, dashboard, document review, terminal evidence, living essay, editorial carousel, paper trail, …)
