@@ -1233,6 +1233,12 @@ Utilities and tools to enhance your Claude workflow.
   - JavaScript implementation; MIT licensed
   - Project site at getcaveman.dev
 
+- [AutomateLab-tech/publishing-skills](https://github.com/AutomateLab-tech/publishing-skills) ![Stars](https://img.shields.io/github/stars/AutomateLab-tech/publishing-skills?style=flat-square)
+  - Four composable skills for end-to-end SEO blog publishing
+  - Topic research, writing pipeline, SVG figures, editorial calendar
+  - Platform-agnostic: Ghost, WordPress, or any static site
+  - MIT-0 licensed; installs into Claude Code, Cursor, Codex, and 50+ runtimes
+
 ---
 
 ## Learning & Documentation
