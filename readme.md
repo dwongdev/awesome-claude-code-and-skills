@@ -615,6 +615,12 @@ Skills for marketing professionals, content creators, and growth teams.
   - One workspace API key (`SC_API_KEY`) for campaigns, media upload, and analytics
   - Install: `npx skills add ndesv21/socialclaw`
 
+- [Sequenzy/skills](https://github.com/Sequenzy/skills/tree/main/skills/sequenzy-email-marketing) ![Stars](https://img.shields.io/github/stars/Sequenzy/skills?style=flat-square)
+  - Agent skill for operating Sequenzy lifecycle email marketing and transactional/product email workflows
+  - Manage subscribers, lists, segments, tags, templates, campaigns, sequences, stats, API keys, websites, and transactional sends
+  - Includes CLI/MCP decision trees, supported-workflow caveats, dashboard URL patterns, and safe execution guidance for AI agents
+  - Install: `npx skills add Sequenzy/skills`
+
 - [Get-Maito/newsletter-skills](https://github.com/Get-Maito/newsletter-skills) ![Stars](https://img.shields.io/github/stars/Get-Maito/newsletter-skills?style=flat-square)
   - Open-source SKILL.md pack for newsletter operators using Claude Code, Codex, Cursor, and compatible agents
   - Covers local event research, source audits, issue building, sponsor operations, monetization strategy, ROI checks, social repurposing, and launch cadence
