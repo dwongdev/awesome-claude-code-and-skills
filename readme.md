@@ -1085,8 +1085,8 @@ Utilities and tools to enhance your Claude workflow.
   - MIT licensed, single static Go binary, no frameworks
 
 - [runapi-ai/cli-skill](https://github.com/runapi-ai/cli-skill) ![Stars](https://img.shields.io/github/stars/runapi-ai/cli-skill?style=flat-square)
-  - Agent skill for running RunAPI model jobs from Claude Code and compatible SKILL.md agents
-  - Covers AI image, video, music, audio, and other model API jobs through the RunAPI CLI
+  - Agent skill for generating AI images, videos, and music/audio from Claude Code and compatible SKILL.md agents
+  - Also covers JSON-first requests, async polling, and other model API jobs through the RunAPI CLI
   - JSON-first requests, async task polling, and terminal/CI-friendly workflows
   - Apache-2.0 licensed; install with `git clone https://github.com/runapi-ai/cli-skill ~/.claude/skills/runapi-cli`
 
