@@ -813,6 +813,13 @@ Specialized skills for specific industries and use cases.
 
 ---
 
+- [twzrd-sol/wzrd-final](https://github.com/twzrd-sol/wzrd-final) ![Stars](https://img.shields.io/github/stars/twzrd-sol/wzrd-final?style=flat-square)
+  - Solana-native trust scoring MCP server for AI agents
+  - Free preflight endpoint + paid signed V5 trust receipt via x402 protocol
+  - Streamable-HTTP MCP at https://intel.twzrd.xyz/mcp
+  - On-chain trust verification and payment receipts for Web3 workflows
+
+
 ## Productivity Tools
 
 Utilities and tools to enhance your Claude workflow.
