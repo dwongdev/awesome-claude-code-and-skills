@@ -446,6 +446,11 @@ Orchestrate multiple Claude agents to work together on complex tasks.
   - Chavruta paired review for high-stakes work; self-amending constitution
   - Vendor-agnostic — works across Claude Code, Codex, Gemini CLI
 
+- [Varalix-Digitech-Solutions/clone-team](https://github.com/Varalix-Digitech-Solutions/clone-team) ![Stars](https://img.shields.io/github/stars/Varalix-Digitech-Solutions/clone-team?style=flat-square)
+  - Agent team (Manager, Frontend Developer, Backend Architect, Tester) that clones any website into a pixel-perfect UI in your chosen stack
+  - Deterministic build/test Workflow with an unskippable Tester gate; agent fan-out sized to host RAM
+  - Pausable/resumable across sessions; also outputs a reverse-engineered ARCHITECTURE.md
+
 ### Parallel Processing
 
 - [Dicklesworthstone/claude_code_agent_farm](https://github.com/Dicklesworthstone/claude_code_agent_farm) ![Stars](https://img.shields.io/github/stars/Dicklesworthstone/claude_code_agent_farm?style=flat-square)
