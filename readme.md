@@ -823,6 +823,10 @@ Specialized skills for specific industries and use cases.
   - Trilingual support: Simplified Chinese, Traditional Chinese, and English
   - Includes options (US/HK), warrants, DeFi yields, ETF analysis, and advanced portfolio tools
 
+- [Three-Pillar Personal Finance](https://github.com/nontravis/personal-finance-whitepaper) ![Stars](https://img.shields.io/github/stars/nontravis/personal-finance-whitepaper?style=flat-square)
+  - A reasoning-lens skill that makes any AI advise through the Three-Pillar system (Income − Expenses = Freedom Fund; Cashflow, Investment, Savings; discipline over strategy)
+  - MIT licensed; installable via plugin/degit
+
 ---
 
 - [twzrd-sol/wzrd-final](https://intel.twzrd.xyz)
