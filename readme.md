@@ -323,6 +323,13 @@ Skills focused on software development, code quality, and engineering workflows.
   - 89 hermetic tests across the suite, Python standard library only at runtime
   - Each plugin is a self-contained repo; install all via marketplace: `/plugin marketplace add mturac/pluginpool`. MIT licensed.
 
+- [innovestrum/keelson](https://github.com/innovestrum/keelson) ![Stars](https://img.shields.io/github/stars/innovestrum/keelson?style=flat-square)
+  - Tracker-agnostic, issue-driven operating model for AI coding agents
+  - `adopt-keelson` interviews you and writes an AGENTS.md plus a selectable lifecycle skill-pack
+  - `tune-gates` establishes or refines just the quality gates, standalone
+  - Agents run mechanical work autonomously but escalate any move touching the original design, plan, or strategy to a human
+  - Works with GitHub, GitLab, Jira, Linear, or any API/CLI/MCP. MIT licensed.
+
 ### Specialized Agents
 
 - [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) ![Stars](https://img.shields.io/github/stars/VoltAgent/awesome-claude-code-subagents?style=flat-square)
