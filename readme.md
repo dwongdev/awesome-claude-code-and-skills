@@ -114,6 +114,12 @@ These repositories offer extensive collections of skills across multiple domains
   - Includes adjacent Codex, Hermes, and OpenClaw hubs for cross-agent comparison
   - Useful when you want a Claude-specific entry point without losing the broader ecosystem view
 
+- [CreatorSkills](https://creatorskills.co)
+  - Curated marketplace of 30+ downloadable AI skills for content creators
+  - Covers YouTube scripting, sponsorship analysis, content repurposing, and audience growth
+  - Skills use the open SKILL.md format and work with Claude, ChatGPT, and 20+ AI platforms
+  - Paid marketplace; skills are domain-specific and ready to install
+
 - [garrytan/gstack](https://github.com/garrytan/gstack) ![Stars](https://img.shields.io/github/stars/garrytan/gstack?style=flat-square)
   - Garry Tan's exact Claude Code setup
   - 6 opinionated tools for startup leadership
