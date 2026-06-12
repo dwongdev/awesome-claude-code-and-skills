@@ -528,6 +528,10 @@ Orchestrate multiple Claude agents to work together on complex tasks.
   - Two human gates per feature plus memory feedback loop that persists decisions across sessions
 
 ---
+- [dazuiba/handoff](https://github.com/dazuiba/handoff) ![Stars](https://img.shields.io/github/stars/dazuiba/handoff?style=flat-square)
+  - Skill/subagent that delegates tasks to DeepSeek V4, Codex, or Opus without leaving your session
+  - Runs tasks in the background; result returns automatically when done
+  - Backed by handoff-cli; supports parallel tasks and session resume
 
 ## Security & Compliance
 
