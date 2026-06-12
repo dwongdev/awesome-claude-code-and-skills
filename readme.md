@@ -458,6 +458,11 @@ Orchestrate multiple Claude agents to work together on complex tasks.
   - Deterministic build/test Workflow with an unskippable Tester gate; agent fan-out sized to host RAM
   - Pausable/resumable across sessions; also outputs a reverse-engineered ARCHITECTURE.md
 
+- [Varalix-Digitech-Solutions/game-build-team-skill](https://github.com/Varalix-Digitech-Solutions/game-build-team-skill) ![Stars](https://img.shields.io/github/stars/Varalix-Digitech-Solutions/game-build-team-skill?style=flat-square)
+  - Agent team (Manager, Creative Director, Logic & Animation Developers, Tester) that builds Godot 4 / GDScript game features
+  - Two unskippable gates — headless test gate + "is it fun" creative gate — then an on-device final pass
+  - Deterministic build/test Workflow; pausable/resumable across sessions and usage-limit cutoffs
+
 ### Parallel Processing
 
 - [Dicklesworthstone/claude_code_agent_farm](https://github.com/Dicklesworthstone/claude_code_agent_farm) ![Stars](https://img.shields.io/github/stars/Dicklesworthstone/claude_code_agent_farm?style=flat-square)
