@@ -702,6 +702,12 @@ Skills for marketing professionals, content creators, and growth teams.
   - 7 styles, UML support, and AI/Agent workflow patterns
   - Python-driven
 
+- [aislinn-yang/rednote-writing-skill](https://github.com/aislinn-yang/rednote-writing-skill) ![Stars](https://img.shields.io/github/stars/aislinn-yang/rednote-writing-skill?style=flat-square)
+  - Writes Rednote (Xiaohongshu / 小红书) posts in your own voice, never fabricating content
+  - Collage / co-create / review modes turn rough ideas into a finished draft
+  - Scans for AI-tells and platform-throttling words, then a "reads like a real person" pass before title and cover
+  - MIT licensed, instruction-only (no executable scripts); tune `examples.md` to match your own writing
+
 ---
 
 ## Domain-Specific Skills
