@@ -756,6 +756,12 @@ Specialized skills for specific industries and use cases.
   - Includes media upload, media download, direct messages, monitors, webhooks, and giveaway draws
   - Ships GitHub docs, npm install, ClawHub listing, and Context7 reference docs
 
+- [Xquik-dev/hermes-tweet](https://github.com/Xquik-dev/hermes-tweet) ![Stars](https://img.shields.io/github/stars/Xquik-dev/hermes-tweet?style=flat-square)
+  - Native Hermes Agent plugin for X/Twitter research, monitoring, and gated actions
+  - Ships a PyPI package, Hermes plugin entry point, bundled skill, and `.claude-plugin/plugin.json`
+  - Install with `hermes plugins install Xquik-dev/hermes-tweet --enable`
+  - Read tools use `XQUIK_API_KEY`; write actions also require `HERMES_TWEET_ENABLE_ACTIONS=true`
+
 - [voidborne-d/humanize-chinese](https://github.com/voidborne-d/humanize-chinese) ![Stars](https://img.shields.io/github/stars/voidborne-d/humanize-chinese?style=flat-square)
   - Detector + rewriter for Chinese AI-generated text — pure Python, zero dependencies
   - 0–100 statistical scorer across 11 weighted dimensions (discourse density, parallel structure, four-character cliché, hedging, etc.) plus sentence-level breakdown
