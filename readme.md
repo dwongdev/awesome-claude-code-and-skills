@@ -968,6 +968,11 @@ Utilities and tools to enhance your Claude workflow.
   - Includes an npm CLI plus copyable Context Receipts skill recipe and 60-second smoke checks
   - Focuses on audit evidence, not persistent memory or agent orchestration
 
+- [maxbaluev/accreted-intelligence](https://github.com/maxbaluev/accreted-intelligence) ![Stars](https://img.shields.io/github/stars/maxbaluev/accreted-intelligence?style=flat-square)
+  - Local-first MCP work memory for Claude Code, Codex, Cursor, and OpenCode
+  - Scored retrieval, commitment tracking, and outcome-based credit help coding agents reuse lessons across sessions
+  - Public installer, docs, MCP/plugin integration glue, and release artifacts; private engine binary
+
 - [sunnja69/akephalos](https://github.com/sunnja69/akephalos) ![Stars](https://img.shields.io/github/stars/sunnja69/akephalos?style=flat-square)
   - Local-first, markdown-first `.akephalos` passport for portable agent preferences, tool notes, rules, project context, and durable memories
   - Works across Claude Code, Codex, Cursor, Hermes, OpenClaw, MCP clients, and machines
