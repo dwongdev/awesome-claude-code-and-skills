@@ -244,6 +244,11 @@ These repositories offer extensive collections of skills across multiple domains
   - lookdev / lookdev-auto (tune AI output by eye or via a vision model), deterministic-design, ckw-design
   - screenstudio-alt and macOS system-audio screen recorder, web-media-getter
   - Install: `/plugin marketplace add connerkward/ckw-skills`
+- [mailtrap/mailtrap-skills](https://github.com/mailtrap/mailtrap-skills) [![Stars](https://img.shields.io/github/stars/mailtrap/mailtrap-skills?style=flat-square)](https://github.com/mailtrap/mailtrap-skills)
+
+  - Agent skills for Mailtrap email sending, sandbox testing, and contact management
+  - Covers email sending, sandbox testing, templates, domain setup, and contacts
+   -Follows the Agent Skills open standard (Anthropic, Dec 2025)
 
 ## Development & Engineering
 
