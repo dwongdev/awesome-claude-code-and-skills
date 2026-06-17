@@ -1280,6 +1280,11 @@ Utilities and tools to enhance your Claude workflow.
   - Prompting, planning, and agent strategies
   - Commands, skills, hooks, and workflows
 
+- [sneg55/agent-starter](https://github.com/sneg55/agent-starter) ![Stars](https://img.shields.io/github/stars/sneg55/agent-starter?style=flat-square)
+  - Skills, hooks, templates, and engineering guides for AI-agent-friendly projects
+  - `/new-project` scaffolding and `/adopt-project` for existing repos
+  - AI-tuned lint rules, hooks reference, and a per-project self-improvement loop
+
 ### Cost Optimization
 
 - [Sagargupta16/claude-cost-optimizer](https://github.com/Sagargupta16/claude-cost-optimizer) ![Stars](https://img.shields.io/github/stars/Sagargupta16/claude-cost-optimizer?style=flat-square)
