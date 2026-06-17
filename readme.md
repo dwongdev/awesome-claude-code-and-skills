@@ -424,6 +424,12 @@ Orchestrate multiple Claude agents to work together on complex tasks.
   - Convoy system for coordinated tasks
   - Git-backed state tracking
 
+- [agentlas-ai/Hephaestus](https://github.com/agentlas-ai/Hephaestus) ![Stars](https://img.shields.io/github/stars/agentlas-ai/Hephaestus?style=flat-square)
+  - Open Agent OS for Claude Code, Codex, and Cursor
+  - Packages agents, skills, memory, routing rules, and security gates
+  - Includes Hephaestus Network MCP for Agentlas Hub search, runtime bundles, and plugin resolution
+  - Local-first by default with Hub fallback for public agents
+
 - [dlorenc/multiclaude](https://github.com/dlorenc/multiclaude) ![Stars](https://img.shields.io/github/stars/dlorenc/multiclaude?style=flat-square)
   - Multi-agent orchestrator with flexible modes
   - Singleplayer and multiplayer coordination
