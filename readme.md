@@ -239,6 +239,12 @@ These repositories offer extensive collections of skills across multiple domains
 
 ---
 
+- [connerkward/ckw-skills](https://github.com/connerkward/ckw-skills) ![Stars](https://img.shields.io/github/stars/connerkward/ckw-skills?style=flat-square)
+  - Human-in-the-loop visual studios and deterministic design tooling by Conner K. Ward
+  - lookdev / lookdev-auto (tune AI output by eye or via a vision model), deterministic-design, ckw-design
+  - screenstudio-alt and macOS system-audio screen recorder, web-media-getter
+  - Install: `/plugin marketplace add connerkward/ckw-skills`
+
 ## Development & Engineering
 
 Skills focused on software development, code quality, and engineering workflows.
