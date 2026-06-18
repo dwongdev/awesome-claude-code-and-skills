@@ -926,6 +926,11 @@ Utilities and tools to enhance your Claude workflow.
   - Local, open-source macOS app for listening to Claude Code and Codex agents as they work
   - Global Mix across active sessions, blocker alerts, and BYOK Gemini/OpenAI narration
 
+- [tristan666666/agent-island](https://github.com/tristan666666/agent-island) ![Stars](https://img.shields.io/github/stars/tristan666666/agent-island?style=flat-square)
+  - Native macOS notch companion for Claude Code and Codex long runs
+  - Shows live session state and usage locally
+  - Optional auto-resume for trusted sessions after reset windows
+
 - [automazeio/vibeproxy](https://github.com/automazeio/vibeproxy) ![Stars](https://img.shields.io/github/stars/automazeio/vibeproxy?style=flat-square)
   - Native macOS menu-bar app to use Claude Code and ChatGPT subscriptions with AI coding tools
   - Skips the need for API keys
