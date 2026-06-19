@@ -347,6 +347,13 @@ Skills focused on software development, code quality, and engineering workflows.
   - Agents run mechanical work autonomously but escalate any move touching the original design, plan, or strategy to a human
   - Works with GitHub, GitLab, Jira, Linear, or any API/CLI/MCP. MIT licensed.
 
+- [laki-arnsteinlarsen/strategistkit-skills](https://github.com/laki-arnsteinlarsen/strategistkit-skills) ![Stars](https://img.shields.io/github/stars/laki-arnsteinlarsen/strategistkit-skills?style=flat-square)
+  - Socratic Code Reviewer — interrogates intent, edge cases, and trade-offs; a senior reviewer's questions, not a checklist
+  - Systematic Bug Debugger — root-cause debugging from symptoms and stack traces; handles heisenbugs and "works locally, fails in prod"
+  - TDD Loop Master — drives red-green-refactor: builds a test list, writes tests first, keeps the discipline tight
+  - Free and MIT-licensed; a taste of the larger StrategistKit catalog
+
+
 ### Specialized Agents
 
 - [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) ![Stars](https://img.shields.io/github/stars/VoltAgent/awesome-claude-code-subagents?style=flat-square)
