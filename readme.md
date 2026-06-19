@@ -642,6 +642,13 @@ Skills for marketing professionals, content creators, and growth teams.
   - Connects Search Console and Google Ads for actionable audits
   - Includes SEO analysis, content writing, and CMS setup skills
 
+- [nowork-studio/NotFair](https://github.com/nowork-studio/NotFair) ![Stars](https://img.shields.io/github/stars/nowork-studio/NotFair?style=flat-square)
+  - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads (MIT)
+  - [SEO skills](https://github.com/nowork-studio/NotFair/tree/main/seo): site analysis, keyword research, meta tags, schema markup, GEO optimization, and content writing
+  - [Google Ads skills](https://github.com/nowork-studio/NotFair/tree/main/google-ads): audits, wasted-spend detection, search-term cleanup, keyword and bid management
+  - [Meta Ads skills](https://github.com/nowork-studio/NotFair/tree/main/meta-ads): ROAS analysis, creative fatigue, and audience overlap detection
+  - Connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP
+
 - [salespeak-ai/buyer-eval-skill](https://github.com/salespeak-ai/buyer-eval-skill) ![Stars](https://img.shields.io/github/stars/salespeak-ai/buyer-eval-skill?style=flat-square)
   - Structured B2B software vendor evaluation skill (MIT)
   - Domain-expert questions per software category
