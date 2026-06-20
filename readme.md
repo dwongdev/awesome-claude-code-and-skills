@@ -732,6 +732,10 @@ Skills for marketing professionals, content creators, and growth teams.
   - Scans for AI-tells and platform-throttling words, then a "reads like a real person" pass before title and cover
   - MIT licensed, instruction-only (no executable scripts); tune `examples.md` to match your own writing
 
+- [outreachmagic/outreachmagic](https://github.com/outreachmagic/outreachmagic) ![Stars](https://img.shields.io/github/stars/outreachmagic/outreachmagic?style=flat-square)
+  - **GTM pipeline agent** that syncs Smartlead, Instantly, HeyReach, PlusVibe, EmailBison, Prosp, and Calendly into a local SQLite database your agent can query directly
+  - Every send, reply, bounce, and stage change lands on your machine
+  - Install: `npx skills add outreachmagic/outreachmagic`
 ---
 
 ## Domain-Specific Skills
