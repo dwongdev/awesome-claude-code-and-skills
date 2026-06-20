@@ -1253,6 +1253,11 @@ Utilities and tools to enhance your Claude workflow.
   - Exports JSON, Markdown, and self-contained HTML reports
   - Ships as a single Go binary with Homebrew and one-line installer support
 
+- [Necmttn/ax](https://github.com/Necmttn/ax) ![Stars](https://img.shields.io/github/stars/Necmttn/ax?style=flat-square)
+  - Local-first telemetry and memory graph for AI coding agents
+  - Ingests Claude Code, Codex, Pi, OpenCode, Cursor, and installed skills
+  - Exposes session search, cost analytics, skill usage, workflow evidence, dashboard, and MCP queries
+
 - [Yuyz0112/claude-code-reverse](https://github.com/Yuyz0112/claude-code-reverse) ![Stars](https://img.shields.io/github/stars/Yuyz0112/claude-code-reverse?style=flat-square)
   - Visualize Claude Code's LLM interactions
   - Runtime behavior and API data analysis
