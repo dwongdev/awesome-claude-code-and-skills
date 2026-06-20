@@ -1091,6 +1091,13 @@ Utilities and tools to enhance your Claude workflow.
   - You describe how you think and work; it captures and reuses that context
   - Shell-driven
 
+- [fkiene/llmtrim](https://github.com/fkiene/llmtrim) ![Stars](https://img.shields.io/github/stars/fkiene/llmtrim?style=flat-square)
+  - Local proxy that compresses each model request to cut token cost, with quality gating that reverts any step that does not save
+  - Works with Claude Code via HTTPS_PROXY with no code changes
+  - Trims resent tool schemas, history, MCP tool output, and scraped pages on every turn
+  - Also ships an MCP server, CLI, libraries (Rust, Python, Ruby, Swift, Kotlin), and a WASM/JS npm package
+  - Rust-based, MPL-2.0 licensed
+
 ### MCP Servers & Integrations
 
 - [oraios/serena](https://github.com/oraios/serena) ![Stars](https://img.shields.io/github/stars/oraios/serena?style=flat-square)
