@@ -1114,6 +1114,12 @@ Utilities and tools to enhance your Claude workflow.
   - Also ships an MCP server, CLI, libraries (Rust, Python, Ruby, Swift, Kotlin), and a WASM/JS npm package
   - Rust-based, MPL-2.0 licensed
 
+- [bks-lab/open-bridge](https://github.com/bks-lab/open-bridge) ![Stars](https://img.shields.io/github/stars/bks-lab/open-bridge?style=flat-square)
+  - Agent-agnostic context layer: a plain git repo of Markdown + YAML your coding agent reads at the start of every session
+  - It begins each session knowing your repos, clients, and task conventions instead of restarting from zero
+  - One `skills/` tree works across Claude Code, Codex, and Copilot CLI; sync is via plain files/Git
+  - MIT licensed; single self-hosted instance so far — documents the method, not adoption
+
 ### MCP Servers & Integrations
 
 - [oraios/serena](https://github.com/oraios/serena) ![Stars](https://img.shields.io/github/stars/oraios/serena?style=flat-square)
