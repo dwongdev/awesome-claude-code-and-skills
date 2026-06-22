@@ -902,6 +902,12 @@ Specialized skills for specific industries and use cases.
   - Streamable-HTTP MCP at https://intel.twzrd.xyz/mcp
   - On-chain trust verification and payment receipts for Web3 workflows
 
+- [Alisa0808/vibe-creating-skill](https://github.com/Alisa0808/vibe-creating-skill) ![Stars](https://img.shields.io/github/stars/Alisa0808/vibe-creating-skill?style=flat-square)
+  - Bilingual EN/中文 skill that rewrites a rough idea or over-specified shot script into a model-ready text-to-video prompt
+  - Works with Seedance 2.0, Kling, Veo, Hailuo, Wan, Vidu
+  - Judgment-first: won't flatten prompts that need precise control
+  - One SKILL.md, open Agent Skills standard; MIT
+
 
 ## Productivity Tools
 
