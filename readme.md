@@ -983,6 +983,11 @@ Utilities and tools to enhance your Claude workflow.
   - One rule set propagates to Claude Code, Cursor, Codex, and others
   - TypeScript-driven
 
+- [go165/agent-skill-groups](https://github.com/go165/agent-skill-groups) ![Stars](https://img.shields.io/github/stars/go165/agent-skill-groups?style=flat-square)
+  - Local-first Agent Skills profile manager for grouping `SKILL.md` directories by scenario
+  - Switches lean profiles such as core, research, frontend, and CTF with backup and restore support
+  - Supports Claude Code, Codex, OpenCode, and generic local skill roots with JSON automation output
+
 - [notlikeDev/CCPlugins](https://github.com/notlikeDev/CCPlugins) ![Stars](https://img.shields.io/github/stars/notlikeDev/CCPlugins?style=flat-square)
   - Claude Code framework focused on saving time on routine prompts
   - Built for developers tired of writing "please act like a senior engineer" every session
