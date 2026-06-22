@@ -1005,6 +1005,11 @@ Utilities and tools to enhance your Claude workflow.
   - Portable Bash/Python tooling: `memory-health.sh`, `memory-search.sh` (BM25-style local retrieval), `skill-spec-audit.sh` (agentskills.io compliance — 168 PASS / 23 WARN / 3 FAIL on 194 community skills), and `dna-doctor.sh` (single-command health check)
   - Works across Claude Code, Cursor, Codex CLI, Gemini CLI, Aider, and Continue.dev — rules are model-agnostic markdown
 
+- [qingqingpi/loop-engineering-skill](https://github.com/qingqingpi/loop-engineering-skill) ![Stars](https://img.shields.io/github/stars/qingqingpi/loop-engineering-skill?style=flat-square)
+  - Design, evaluate, diagnose, and harden repeated or unattended AI-agent loops, organized around verifier fidelity (a loop is only as good as its verifier)
+  - GREEN/YELLOW/RED task-fit triage with two hard vetoes; three-layer architecture (scheduler, inner loop, commit gate) keeps irreversible actions outside the loop body
+  - Ships a reproducible cross-model eval (opus/sonnet/haiku) with a standalone runner and an honest limitations writeup
+
 ### Memory & Context Management
 
 - [caioribeiroclw-pixel/pluribus](https://github.com/caioribeiroclw-pixel/pluribus) ![Stars](https://img.shields.io/github/stars/caioribeiroclw-pixel/pluribus?style=flat-square)
