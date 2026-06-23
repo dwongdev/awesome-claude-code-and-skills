@@ -1238,6 +1238,12 @@ Utilities and tools to enhance your Claude workflow.
   - Zero-Config Code Flow for Claude Code and Codex
   - TypeScript-driven configuration wrapper
 
+- [ainova-systems/intelligence-sync](https://github.com/ainova-systems/intelligence-sync) ![Stars](https://img.shields.io/github/stars/ainova-systems/intelligence-sync?style=flat-square)
+  - One source of truth for AI coding rules across every IDE
+  - Author rules, agents, and skills once in plain markdown
+  - Routes them into each tool's native format (Claude Code, Cursor, Copilot, Codex, AGENTS.md)
+  - Zero dependencies, bash and awk, MIT
+
 ### Autonomous Development
 
 - [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) ![Stars](https://img.shields.io/github/stars/frankbria/ralph-claude-code?style=flat-square)
