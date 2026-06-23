@@ -1240,9 +1240,9 @@ Utilities and tools to enhance your Claude workflow.
 
 - [ainova-systems/intelligence-sync](https://github.com/ainova-systems/intelligence-sync) ![Stars](https://img.shields.io/github/stars/ainova-systems/intelligence-sync?style=flat-square)
   - One source of truth for AI coding rules across every IDE
-  - Author rules, agents, and skills once in plain markdown
-  - Routes them into each tool's native format (Claude Code, Cursor, Copilot, Codex, AGENTS.md)
-  - Zero dependencies, bash and awk, MIT
+  - Author rules, agents, and skills once in plain Markdown
+  - Routes them into each tool's native formats (Claude Code, Cursor, GitHub Copilot, Codex, AGENTS.md)
+  - Zero-dependency, bash and awk, MIT licensed
 
 ### Autonomous Development
 
