@@ -1019,7 +1019,7 @@ Utilities and tools to enhance your Claude workflow.
 - [qingqingpi/loop-engineering-skill](https://github.com/qingqingpi/loop-engineering-skill) ![Stars](https://img.shields.io/github/stars/qingqingpi/loop-engineering-skill?style=flat-square)
   - Design, evaluate, diagnose, and harden repeated or unattended AI-agent loops, organized around verifier fidelity (a loop is only as good as its verifier)
   - GREEN/YELLOW/RED task-fit triage with two hard vetoes; three-layer architecture (scheduler, inner loop, commit gate) keeps irreversible actions outside the loop body
-  - Ships a reproducible cross-model eval (opus/sonnet/haiku) with a standalone runner and an honest limitations writeup
+  - Separates task loop-fit from as-specified-design safety (a GREEN-fit task can still have an UNSAFE design); ships a reproducible cross-model eval with pre-registered held-out and minimal-pair suites, a standalone runner, and an honest limitations writeup
 
 ### Memory & Context Management
 
