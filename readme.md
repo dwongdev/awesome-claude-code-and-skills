@@ -1191,6 +1191,12 @@ Utilities and tools to enhance your Claude workflow.
   - Three-tier channel scheduling, browser CDP, and parallel divide-and-conquer
   - JavaScript-driven
 
+- [officialzeroxyz/zero-plugins](https://github.com/officialzeroxyz/zero-plugins) ![Stars](https://img.shields.io/github/stars/officialzeroxyz/zero-plugins?style=flat-square)
+  - Claude Code plugin (zero@zero-plugins) that gives your AI access to thousands of tools, APIs and services to use and pay for per use
+  - No config, no API keys; services are discovered and paid for at runtime
+  - Also ships a CLI (@zeroxyz/cli) and an MCP connector (mcp.zero.xyz)
+  - Homepage: https://zero.xyz
+
 ### API & Integration Tools
 
 - [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) ![Stars](https://img.shields.io/github/stars/router-for-me/CLIProxyAPI?style=flat-square)
